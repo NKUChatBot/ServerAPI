@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '+7=&#2yq@&tseyt79eu1$8oplp0ovk=#4&9y!&x860y!v^#lm+'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["chatbot.shesl.top"]
 
 
 # Application definition

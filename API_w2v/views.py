@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from django.http import JsonResponse
 from pickle import load as load_pickle
+import ao_wordvector
 
 
 def JsonResponseZh(json_data):
@@ -32,5 +33,5 @@ def get_word_vector(request):
         return JsonResponseZh({
             "code": 0,
             "msg": "查询成功",
-            "data": vector
+            "data": vector.tolist(),
         })
