@@ -1,0 +1,6478 @@
+[
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 0,
+        "fields": {
+            "name": "白芳",
+            "sex": "女",
+            "title": "副教授",
+            "depart": "微生物学系",
+            "major": "",
+            "field": "病原微生物，抗菌药物研发，细菌III型分泌系统应用",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=baifang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 1,
+        "fields": {
+            "name": "白艳玲",
+            "sex": "女",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "遗传学",
+            "field": "分子遗传学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=baiyl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 2,
+        "fields": {
+            "name": "卜文俊",
+            "sex": "男",
+            "title": "教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "动物学",
+            "field": "动物系统学， 动物分子系统学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=buwj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 3,
+        "fields": {
+            "name": "蔡峻",
+            "sex": "男",
+            "title": "教授",
+            "depart": "微生物学系",
+            "major": "微生物学",
+            "field": "",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=caijun"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 4,
+        "fields": {
+            "name": "曹又佳",
+            "sex": "女",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "T细胞激活与凋亡信号转导机制；病毒蛋白与宿主免疫分子作用机制",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=caoyj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 5,
+        "fields": {
+            "name": "陈成彬",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "遗传学",
+            "field": "分子细胞遗传",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=chencb"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 6,
+        "fields": {
+            "name": "陈德富",
+            "sex": "男",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "遗传学",
+            "field": "分子遗传学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=chendf"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 7,
+        "fields": {
+            "name": "程志晖",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "微生物学系",
+            "major": "微生物",
+            "field": "查菲埃立克体感染人体并在体内繁殖,改造宿主细胞,引起疾病的分子机理",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=chengzh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 8,
+        "fields": {
+            "name": "陈力",
+            "sex": "男",
+            "title": "副研究员",
+            "depart": "遗传学和细胞生物学系",
+            "major": "",
+            "field": "生物化学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=chenli"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 9,
+        "fields": {
+            "name": "陈凌懿",
+            "sex": "男",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "细胞生物学",
+            "field": "■ 小鼠胚胎早期发育中转录编程的调控机制；■ 胚胎干细胞的发育多能性的分子机制；■ 建立诱导",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=chenly"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 10,
+        "fields": {
+            "name": "陈强",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学、动物学",
+            "field": "生物电分析化学、生物医学传感技术、中药药理及药物分析",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=chenqiang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 11,
+        "fields": {
+            "name": "陈佺",
+            "sex": "男",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "细胞生物学",
+            "field": "线粒体在细胞凋亡信号传导中的作用，线粒体动态变化调控和线粒体质量控制的分子机制，肿瘤干细胞研究",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=chenquan"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 12,
+        "fields": {
+            "name": "陈喜文",
+            "sex": "女",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "植物分子生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=chenxw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 13,
+        "fields": {
+            "name": "陈月华",
+            "sex": "女",
+            "title": "教授",
+            "depart": "退休",
+            "major": "生命科学、生物技术",
+            "field": "1、芽孢杆菌分子生物学及生物技术 2、微生物功能基因的表达调控 3、植物病虫害的微生物防治",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=chenyh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 14,
+        "fields": {
+            "name": "丁丹",
+            "sex": "男",
+            "title": "研究员",
+            "depart": "生物化学和分子生物学系",
+            "major": "",
+            "field": "纳米药物与分子影像探针",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=danding"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 15,
+        "fields": {
+            "name": "董金堂",
+            "sex": "男",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "遗传学",
+            "field": "肿瘤发生和发展的分子机制研究，涉及发现和鉴定肿瘤相关基因，并对个别基因进行生化和分子通路的研究。",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=dongjt"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 16,
+        "fields": {
+            "name": "段亚君",
+            "sex": "女",
+            "title": "副研究员",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "心血管",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=duanyj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 17,
+        "fields": {
+            "name": "冯喜增",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学，化学",
+            "field": "新材料学、纳米生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=fengxz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 18,
+        "fields": {
+            "name": "高山",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "生物信息学",
+            "field": "",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=gaoshan"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 19,
+        "fields": {
+            "name": "高玉葆",
+            "sex": "男",
+            "title": "教授",
+            "depart": "植物生物学和生态学系",
+            "major": "植物生理生态",
+            "field": "植物生态学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=gaoyb"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 20,
+        "fields": {
+            "name": "龚清秋",
+            "sex": "女",
+            "title": "研究员",
+            "depart": "植物生物学和生态学系",
+            "major": "植物生理与分子生物学",
+            "field": "胞内运输与极性，Hippo信号通路，自噬在植物发育与非生物逆境响应中的作用。",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=gongqq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 21,
+        "fields": {
+            "name": "古松",
+            "sex": "男",
+            "title": "教授",
+            "depart": "植物生物学和生态学系",
+            "major": "生态学",
+            "field": "全球变化、陆地生态系统碳循环、生态系统水分收支和能量平衡",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=gusong"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 22,
+        "fields": {
+            "name": "韩际宏",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "心血管生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=hanjh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 23,
+        "fields": {
+            "name": "贺秉军",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "动物学",
+            "field": "昆虫生理生化",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=hebj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 24,
+        "fields": {
+            "name": "何兴东",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "植物生物学和生态学系",
+            "major": "植物学",
+            "field": "生态稳定性与生态恢复",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=hexd"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 25,
+        "fields": {
+            "name": "洪章勇",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学，医学分子生物学",
+            "field": "生物化学，化学生物学，生物医药",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=hongzy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 26,
+        "fields": {
+            "name": "黄大卫",
+            "sex": "男",
+            "title": "教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "",
+            "field": "",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=huangdw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 27,
+        "fields": {
+            "name": "黄兴禄",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "",
+            "field": "肿瘤诊断和治疗；再生医学组织工程",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=huangxl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 28,
+        "fields": {
+            "name": "胡俊杰",
+            "sex": "男",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "细胞生物学",
+            "field": "管状内质网的成形机制；内质网的功能与相关疾病；膜蛋白的结构解析",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=hujj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 29,
+        "fields": {
+            "name": "姜洪洲",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "退休",
+            "major": "",
+            "field": "植物生理学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=jianghz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 30,
+        "fields": {
+            "name": "靳永新",
+            "sex": "女",
+            "title": "副教授",
+            "depart": "微生物学系",
+            "major": "微生物学",
+            "field": "微生物基因功能，病原菌致病机理",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=jinyx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 31,
+        "fields": {
+            "name": "孔德领",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学、高分子",
+            "field": "生物医学材料、组织工程",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=kongdl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 32,
+        "fields": {
+            "name": "乐大春",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "",
+            "field": "",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=ledc"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 33,
+        "fields": {
+            "name": "李登文",
+            "sex": "女",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "细胞生物学",
+            "field": "生物化学、细胞生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=lidw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 34,
+        "fields": {
+            "name": "李国强",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "微生物学系",
+            "major": "微生物学",
+            "field": "微生物学，能源与环境微生物",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=ligq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 35,
+        "fields": {
+            "name": "李后魂",
+            "sex": "男",
+            "title": "教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "动物学",
+            "field": "昆虫学、昆虫系统学、森林昆虫、昆虫与植物协同进化、动物地理学、保护生物学、湿地多样性保护",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=lihh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 36,
+        "fields": {
+            "name": "李明春",
+            "sex": "女",
+            "title": "教授",
+            "depart": "微生物学系",
+            "major": "微生物学",
+            "field": "1）真菌多不饱和脂肪酸脱氢酶基因的表达和调控；2)白念珠菌信号转导途径中重要因子的功能研究",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=limc"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 37,
+        "fields": {
+            "name": "李明刚",
+            "sex": "男",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "遗传学",
+            "field": "生物化学与分子生物学、遗传学、微生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=limg"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 38,
+        "fields": {
+            "name": "刘方",
+            "sex": "女",
+            "title": "教授",
+            "depart": "微生物学系",
+            "major": "微生物学及分子生物学",
+            "field": "微生物学、分子生物学和生物化学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=liufang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 39,
+        "fields": {
+            "name": "刘林",
+            "sex": "男",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "细胞生物学",
+            "field": "干细胞与发育生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=liulin"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 40,
+        "fields": {
+            "name": "刘巍",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "",
+            "field": "动物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=liuwei"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 41,
+        "fields": {
+            "name": "刘新奇",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学和分子生物学",
+            "field": "免疫，病毒感染和细胞凋亡的蛋白质晶体学研究",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=liuxq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 42,
+        "fields": {
+            "name": "刘燕强",
+            "sex": "男",
+            "title": "教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "动物学",
+            "field": "神经功能调控",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=liuyq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 43,
+        "fields": {
+            "name": "李鑫",
+            "sex": "男",
+            "title": "副研究员",
+            "depart": "生物化学和分子生物学系",
+            "major": "",
+            "field": "生物化学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=lixin"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 44,
+        "fields": {
+            "name": "龙加福",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "基因表达调控与疾病",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=longjf"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 45,
+        "fields": {
+            "name": "马克.巴特拉姆",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学；分子生物学",
+            "field": "与病毒相关的蛋白质结构与功能；与肿瘤相关的蛋白质结构与功能；基于蛋白质结构的新型药物设计",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=make"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 46,
+        "fields": {
+            "name": "马挺",
+            "sex": "男",
+            "title": "研究员",
+            "depart": "微生物学系",
+            "major": "生物技术、生物科学",
+            "field": "资源微生物学；石油微生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=mating"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 47,
+        "fields": {
+            "name": "门淑珍",
+            "sex": "女",
+            "title": "教授",
+            "depart": "植物生物学和生态学系",
+            "major": "植物学",
+            "field": "植物细胞极性建立的分子机制；生长素的极性运输，以及与其它激素的相互作用；植物固醇的功能",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=mensz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 48,
+        "fields": {
+            "name": "宁文",
+            "sex": "女",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "细胞生物学",
+            "field": "发育和疾病",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=ningwen"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 49,
+        "fields": {
+            "name": "欧来良",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生化与分子生物学",
+            "field": "血液净化；干细胞与组织工程",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=oull"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 50,
+        "fields": {
+            "name": "潘皎",
+            "sex": "女",
+            "title": "副教授",
+            "depart": "微生物学系",
+            "major": "微生物",
+            "field": "真菌的分子生物学，真菌的资源开发及应用,生物技术与文物保护",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=panjiao"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 51,
+        "fields": {
+            "name": "赵强(男)",
+            "sex": "男",
+            "title": "研究员",
+            "depart": "生物化学和分子生物学系",
+            "major": "高分子化学与物理，生物化学",
+            "field": "生物材料",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=qiangzhao"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 52,
+        "fields": {
+            "name": "乔明强",
+            "sex": "男",
+            "title": "教授",
+            "depart": "微生物学系",
+            "major": "微生物学，生物化学及分子生物学",
+            "field": "病源细菌功能基因组学研究；生物源性多肽抑制病源菌机理与产业化；真菌疏水蛋白性质、功能与应用研发；合成生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=qiaomq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 53,
+        "fields": {
+            "name": "乔文涛",
+            "sex": "女",
+            "title": "教授",
+            "depart": "微生物学系",
+            "major": "微生物学",
+            "field": "反转录病毒及相关病毒的分子生物学、病毒与宿主的相互作用。",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=qiaowt"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 54,
+        "fields": {
+            "name": "饶子和",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "",
+            "field": "",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=raozh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 55,
+        "fields": {
+            "name": "任安芝",
+            "sex": "女",
+            "title": "教授",
+            "depart": "植物生物学和生态学系",
+            "major": "生态学",
+            "field": "植物生理生态学和污染生态学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=renaz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 56,
+        "fields": {
+            "name": "阮维斌",
+            "sex": "男",
+            "title": "研究员",
+            "depart": "植物生物学和生态学系",
+            "major": "生态学",
+            "field": "生物防治与土壤生物功能",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=ruanwb"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 57,
+        "fields": {
+            "name": "沈月全",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "钙离子信号传导的分子机制",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=shenyq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 58,
+        "fields": {
+            "name": "石福臣",
+            "sex": "男",
+            "title": "教授",
+            "depart": "植物生物学和生态学系",
+            "major": "植物学",
+            "field": "环境植物学、资源植物学、植物群落生态学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=shifc"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 59,
+        "fields": {
+            "name": "石建党",
+            "sex": "男",
+            "title": "副研究员",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "雌激素在前列腺间质增生、前列腺癌和动脉粥样硬化发生发展中的作用及其分子机制",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=shijd"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 60,
+        "fields": {
+            "name": "宋文芹",
+            "sex": "女",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "遗传学",
+            "field": "遣传学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=songwq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 61,
+        "fields": {
+            "name": "谈娟",
+            "sex": "女",
+            "title": "副教授",
+            "depart": "微生物学系",
+            "major": "微生物学",
+            "field": "反转录病毒及相关病毒的分子生物学、病毒与宿主的相互作用",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=tanjuan"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 62,
+        "fields": {
+            "name": "王春国",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "遗传学",
+            "field": "植物遗传学、表观遗传学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wangcg"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 63,
+        "fields": {
+            "name": "王恺",
+            "sex": "男",
+            "title": "副研究员",
+            "depart": "生物化学和分子生物学系",
+            "major": "",
+            "field": "组织工程；人工血管",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wangkai"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 64,
+        "fields": {
+            "name": "王磊",
+            "sex": "男",
+            "title": "教授",
+            "depart": "微生物学系",
+            "major": "微生物学、生物化学、生物信息学",
+            "field": "微生物遗传与进化、细菌致病机理和环境适应机制、致病菌分子检测技术",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wanglei"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 65,
+        "fields": {
+            "name": "王连永",
+            "sex": "男",
+            "title": "研究员",
+            "depart": "生物化学和分子生物学系",
+            "major": "高分子化学与物理,生物化学",
+            "field": "生物材料与组织工程",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wangly"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 66,
+        "fields": {
+            "name": "王宁宁",
+            "sex": "女",
+            "title": "教授",
+            "depart": "植物生物学和生态学系",
+            "major": "植物学",
+            "field": "植物分子生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wangnn"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 67,
+        "fields": {
+            "name": "王淑芳",
+            "sex": "女",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "高分子化学与物理、生物化学",
+            "field": "生物材料与组织工程",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wangsf"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 68,
+        "fields": {
+            "name": "王淑霞",
+            "sex": "女",
+            "title": "教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "动物学",
+            "field": "昆虫学、动物系统学、昆虫与植物协同进化",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wangsx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 69,
+        "fields": {
+            "name": "王新华",
+            "sex": "男",
+            "title": "教授",
+            "depart": "退休",
+            "major": "动物科学",
+            "field": "水生生物学环境和资源生物学；动物系统学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wangxh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 70,
+        "fields": {
+            "name": "王永健",
+            "sex": "女",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "高分子化学与物理，生物化学",
+            "field": "生物医用材料、组织工程",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wangyj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 71,
+        "fields": {
+            "name": "王勇",
+            "sex": "男",
+            "title": "教授",
+            "depart": "植物生物学和生态学系",
+            "major": "植物学",
+            "field": "植物生长发育机理；植物生物技术",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wangyong"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 72,
+        "fields": {
+            "name": "魏东盛",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "微生物学系",
+            "major": "微生物学",
+            "field": "能源及环境微生物分子生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=weids"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 73,
+        "fields": {
+            "name": "吴世安",
+            "sex": "男",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "遗传学",
+            "field": "器官大小与肿瘤发生的调控机理",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wusa"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 74,
+        "fields": {
+            "name": "吴卫辉",
+            "sex": "男",
+            "title": "教授",
+            "depart": "微生物学系",
+            "major": "微生物学",
+            "field": "微生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wuwh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 75,
+        "fields": {
+            "name": "吴震州",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "微生物学系",
+            "major": "",
+            "field": "",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=wuzz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 76,
+        "fields": {
+            "name": "肖金花",
+            "sex": "女",
+            "title": "教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "",
+            "field": "",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=xiaojh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 77,
+        "fields": {
+            "name": "谢强",
+            "sex": "男",
+            "title": "研究员",
+            "depart": "动物生物学和发育生物学系",
+            "major": "动物学",
+            "field": "通过生物大分子高级结构、转录组和并行计算等生物信息学方法，改善或加速高级阶元分子系统发育重建",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=xieqiang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 78,
+        "fields": {
+            "name": "徐海津",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "微生物学系",
+            "major": "",
+            "field": "微生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=xuhj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 79,
+        "fields": {
+            "name": "杨超",
+            "sex": "男",
+            "title": "副研究员",
+            "depart": "微生物学系",
+            "major": "",
+            "field": "",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=yangchao"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 80,
+        "fields": {
+            "name": "杨军",
+            "sex": "女",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生化与分子生物学/高分子化学",
+            "field": "细胞及组织工程、生物材料",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=yangjun"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 81,
+        "fields": {
+            "name": "杨志谋",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "",
+            "field": "水凝胶；生物材料；药物释放",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=yangzm"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 82,
+        "fields": {
+            "name": "叶丽虹",
+            "sex": "女",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "1.肿瘤发生、发展和转移的分子机制；2.抗肿瘤药物筛选",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=yelh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 83,
+        "fields": {
+            "name": "尹芝南",
+            "sex": "男",
+            "title": "教授",
+            "depart": "微生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "1.肿瘤免疫的分子机制；2.gammadelta细胞分化；3.癌症和自身免疫疾病的免疫学机制和小分子药物筛选。",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=yinzn"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 84,
+        "fields": {
+            "name": "张翠竹",
+            "sex": "女",
+            "title": "副教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "",
+            "field": "病毒蛋白与宿主免疫系统相互作用研究",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhangcz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 85,
+        "fields": {
+            "name": "张宏恺",
+            "sex": "男",
+            "title": "研究员",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "抗体工程;肿瘤免疫",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhanghk"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 86,
+        "fields": {
+            "name": "张金红",
+            "sex": "女",
+            "title": "教授",
+            "depart": "退休",
+            "major": "",
+            "field": "生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhangjh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 87,
+        "fields": {
+            "name": "张琚",
+            "sex": "女",
+            "title": "研究员",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "雌激素在相关疾病中的作用机制；前列腺癌血清学分子标志物的筛选；具有雌激素样活性中药与相关疾病的防治",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhangju"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 88,
+        "fields": {
+            "name": "张钧",
+            "sex": "男",
+            "title": "副研究员",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学及分子生物学",
+            "field": "生物医学工程",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhangjun"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 89,
+        "fields": {
+            "name": "张涛",
+            "sex": "男",
+            "title": "教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "生物信息学/神经信息学",
+            "field": "神经生理与计算神经生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhangtao"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 90,
+        "fields": {
+            "name": "张伟英",
+            "sex": "女",
+            "title": "副教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "1.肿瘤发病分子机制研究； 2. 肿瘤新靶点研究；3.抗肿瘤药物筛选",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhangwy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 91,
+        "fields": {
+            "name": "张晓东",
+            "sex": "男",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "肿瘤分子生物学，探讨乙肝病毒致癌分子机制和乳腺癌转移分子机制,筛选抗肿瘤药物",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhangxd"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 92,
+        "fields": {
+            "name": "赵立青",
+            "sex": "女",
+            "title": "教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "肺组织远端发育 肿瘤免疫",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhaolq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 93,
+        "fields": {
+            "name": "赵念席",
+            "sex": "女",
+            "title": "副教授",
+            "depart": "植物生物学和生态学系",
+            "major": "生态学",
+            "field": "植物种群生态学和植物种群遗传学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhaonx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 94,
+        "fields": {
+            "name": "赵强(女)",
+            "sex": "女",
+            "title": "副教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "动物学与发育生物学系",
+            "field": "",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhaoqiang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 95,
+        "fields": {
+            "name": "赵忠芳",
+            "sex": "女",
+            "title": "副教授",
+            "depart": "动物生物学和发育生物学系",
+            "major": "",
+            "field": "生物学",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhaozf"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 96,
+        "fields": {
+            "name": "周浩",
+            "sex": "男",
+            "title": "副教授",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学与分子生物学",
+            "field": "蛋白质的结构与功能研究",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhouhao"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 97,
+        "fields": {
+            "name": "周军",
+            "sex": "男",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "细胞生物学",
+            "field": "细胞骨架与疾病",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhoujun"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 98,
+        "fields": {
+            "name": "周卫红",
+            "sex": "女",
+            "title": "研究员",
+            "depart": "生物化学和分子生物学系",
+            "major": "生物化学",
+            "field": "具有重要生物意义的蛋白质三维结构与功能关系",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhouwh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 99,
+        "fields": {
+            "name": "朱晔荣",
+            "sex": "女",
+            "title": "副教授",
+            "depart": "植物生物学和生态学系",
+            "major": "植物学",
+            "field": "1能源植物浮萍的淀粉合成和积累规律及提高其淀粉积累水平的研究； 2.通过转基因延长水生景观生态植物生长期的研究",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhuyr"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 100,
+        "fields": {
+            "name": "朱玉山",
+            "sex": "男",
+            "title": "教授",
+            "depart": "遗传学和细胞生物学系",
+            "major": "细胞生物学",
+            "field": "细胞自噬与细胞凋亡调控",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhuys"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 101,
+        "fields": {
+            "name": "朱正茂",
+            "sex": "男",
+            "title": "副研究员",
+            "depart": "遗传学和细胞生物学系",
+            "major": "细胞生物学",
+            "field": "肿瘤发生、发展和转移的分子机制",
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhuzm"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 102,
+        "fields": {
+            "name": "计控白刚",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机应用，模式识别",
+            "tele": "23500132",
+            "email": "baigang@nankai.edu.cn",
+            "field": "人工智能，机器学习，模式识别，计算机视觉",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=baig"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 103,
+        "fields": {
+            "name": "计控陈万义",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制专业",
+            "tele": "未知",
+            "email": "wychen@nankai.edu.cn",
+            "field": "鲁棒控制理论、金融数学与金融工程",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenwy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 104,
+        "fields": {
+            "name": "计控陈增强",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "admin": "副所长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "控制",
+            "tele": "23508547",
+            "email": "chenzq@nankai.edu.cn",
+            "field": "智能预测控制与智能优化计算、复杂系统建模优化与控制、多智能体系统与复杂网络、离散事件逻辑动态系统建模与分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenzq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 105,
+        "fields": {
+            "name": "计控程明明",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机科学与技术",
+            "tele": "85358570",
+            "email": "cmm@nankai.edu.cn",
+            "field": "计算机视觉、人工智能、图像视频大数据分析、计算机图形学",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chengmm"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 106,
+        "fields": {
+            "name": "计控程仁洪",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "研究生",
+            "major": "控制理论与控制工程",
+            "tele": "未知",
+            "email": "chengrh@nankai.edu.cn",
+            "field": "数据库技术及应用,软件性能,智能控制与检测系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chengrh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 107,
+        "fields": {
+            "name": "计控段峰",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "精密机械",
+            "tele": "85358718",
+            "email": "duanf@nankai.edu.cn",
+            "field": "机器人技术，肌电假手，康复机器人，机器人视觉，家庭服务机器人，人体技能分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=duanf"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 108,
+        "fields": {
+            "name": "计控方勇纯",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制",
+            "tele": "23505706-802，85358689",
+            "email": "fangyc@nankai.edu.cn",
+            "field": "机器人视觉控制；无人机；欠驱动吊车系统；微纳米操作",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=fangyc"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 109,
+        "fields": {
+            "name": "计控韩建达",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "教授",
+            "degree": "博士",
+            "major": "机器人与自动化",
+            "tele": "022 23505706-808",
+            "email": "hanjianda@nankai.edu.cn",
+            "field": "机器人自主行为与人机协作/共融方法，医疗康复机器人、地面移动及飞行机器人技术与系统；详细请参见：http://robot.nankai.edu.cn/t/hanjd_research.pdf",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=hanjd"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 110,
+        "fields": {
+            "name": "计控贾春福",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "admin": "副系主任",
+            "title": "教授",
+            "degree": "博士",
+            "major": "控制",
+            "tele": "未知",
+            "email": "cfjia@nankai.edu.cn",
+            "field": "网络与信息安全；可信计算与软件安全；恶意代码分析; 密码应用技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=jiacf"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 111,
+        "fields": {
+            "name": "计控李庆诚",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动化",
+            "tele": "未知",
+            "email": "Liqch@nankai.edu.cn",
+            "field": "嵌入式操作系统与信息安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liqc"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 112,
+        "fields": {
+            "name": "计控刘景泰",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "所长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动化",
+            "tele": "23505706-801",
+            "email": "liujt@nankai.edu.cn;",
+            "field": "机器人技术，计算机应用与信息自动化系统，智能科学与技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liujt"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 113,
+        "fields": {
+            "name": "计控刘晓光",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "admin": "副院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "23504780",
+            "email": "liuxg74 [AT] hotmail.com",
+            "field": "云存储 搜索引擎 区块链系统 云计算/大数据平台 计算经济学",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liuxg"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 114,
+        "fields": {
+            "name": "计控刘忠信",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "admin": "系主任",
+            "title": "教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "022-23508547",
+            "email": "lzhx@nankai.edu.cn",
+            "field": "多智能体系统，复杂动态网络，计算机控制与管理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liuzhx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 115,
+        "fields": {
+            "name": "计控邵秀丽",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机软件",
+            "tele": "办公室 计算机与控制工程楼407 85358270",
+            "email": "shaoxl@nankai.edu.cn",
+            "field": "数据分析、智能系统、CSCW协同控制",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=shaoxl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 116,
+        "fields": {
+            "name": "计控孙明玮",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动化",
+            "tele": "85358191",
+            "email": "smw_sunmingwei@163.com",
+            "field": "预测控制、自抗扰控制、飞行器制导与控制和非线性优化等",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunmw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 117,
+        "fields": {
+            "name": "计控孙青林",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "admin": "实验中心主任",
+            "title": "教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "23508547",
+            "email": "sunql@nankai.edu.cn",
+            "field": "自适应控制、嵌入式控制系统、柔性飞行器建模与控制",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunql"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 118,
+        "fields": {
+            "name": "计控王刚（计）",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "软件",
+            "tele": "23504780",
+            "email": "wgzwp@163.com",
+            "field": "海量信息存储、并行与分布式计算",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangg"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 119,
+        "fields": {
+            "name": "计控卫金茂",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "admin": "副所长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机应用",
+            "tele": "85358690(NA)",
+            "email": "weijm@nankai.edu.cn;",
+            "field": "机器学习，数据挖掘，智能信息处理，生物信息学",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=weijm"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 120,
+        "fields": {
+            "name": "计控辛运帏",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "软件",
+            "tele": "未知",
+            "email": "xinyw@nankai.edu.cn",
+            "field": "信息自动化 智能软件系统 数字医疗系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xinyw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 121,
+        "fields": {
+            "name": "计控徐敬东",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "admin": "系主任",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机应用",
+            "tele": "85358865",
+            "email": "xujd@nankai.edu.cn",
+            "field": "移动边缘计算、网络大数据分析、软件定义网络（SDN）、网络安全等",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xujd"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 122,
+        "fields": {
+            "name": "计控许静",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "admin": "副系主任、所长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机应用",
+            "tele": "23500350",
+            "email": "xujing@nankai.edu.cn",
+            "field": "软件工程、软件测试、软件安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xuj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 123,
+        "fields": {
+            "name": "计控杨愚鲁",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "yangyl@nankai.edu.cn",
+            "field": "并行与分布式处理，系统结构，可重构系统，网格计算",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yangyl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 124,
+        "fields": {
+            "name": "计控杨征路",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "admin": "所长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机科学与信息安全系大数据技术研究所",
+            "tele": "85358477",
+            "email": "yangzl@nankai.edu.cn",
+            "field": "人工智能，数据挖掘，信息检索",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yangzl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 125,
+        "fields": {
+            "name": "计控袁晓洁",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机软件",
+            "tele": "23509175",
+            "email": "yuanxj[at]nankai.edu.cn",
+            "field": "数据库、知识工程、大数据技术、机器学习、Web检索与挖掘",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yuanxj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 126,
+        "fields": {
+            "name": "计控张瀚",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "admin": "副系主任",
+            "title": "教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "85358726",
+            "email": "zhanghan@nankai.edu.cn",
+            "field": "机器学习与数据挖掘、信息安全、生物信息大数据分析与挖掘",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 127,
+        "fields": {
+            "name": "计控张建勋",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制理论与应用",
+            "tele": "23505706-805",
+            "email": "zhangjx@nankai.edu.cn",
+            "field": "智能机器人控制、计算机网络与信息系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 128,
+        "fields": {
+            "name": "计控张建忠",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机应用",
+            "tele": "未知",
+            "email": "zhangjz@nankai.edu.cn",
+            "field": "网络大数据分析，网络安全，移动计算，软件定义网络（SDN）",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 129,
+        "fields": {
+            "name": "计控赵新",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "副院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "23505706-803,85358825",
+            "email": "zhaoxin@nankai.edu.cn",
+            "field": "微操作机器人系统，微纳设计与加工，生物模式形成与组织发育建模",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaox"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 130,
+        "fields": {
+            "name": "计控Jeffrey Too Chuan TAN",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "精密机械",
+            "tele": "022-85358718",
+            "email": "jeffrey@nankai.edu.cn",
+            "field": "家庭服务机器人，人工智能，人机交互，机器人教育，信息物理系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=jeffrey"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 131,
+        "fields": {
+            "name": "计控Rebecca J.Stones",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "rebecca.stones82 AT gmail DOT com",
+            "field": "组合优化、编码、信息安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=rebecca"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 132,
+        "fields": {
+            "name": "计控陈晨",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "nkchenchen at nankai dot edu dot cn",
+            "field": "自然语言处理, 信息检索, 机器学习, 社会计算",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenchen"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 133,
+        "fields": {
+            "name": "计控丛跃进",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "硕士",
+            "major": "机械",
+            "tele": "未知",
+            "email": "congyj@nankai.edu.cn",
+            "field": "图像视频分析、环境智能监控、振动分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=congyj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 134,
+        "fields": {
+            "name": "计控代煜",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制科学与工程",
+            "tele": "23505706-811",
+            "email": "daiyu@nankai.edu.cn",
+            "field": "面向手术机器人的智能感知技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=daiyu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 135,
+        "fields": {
+            "name": "计控宫晓利",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "gongxiaoli (at) nankai (dot) edu (dot) cn",
+            "field": "嵌入式系统，移动云计算，物联网",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=gongxl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 136,
+        "fields": {
+            "name": "计控黄家友",
+            "sex": "男",
+            "depart": "学院行政管理",
+            "admin": "党委书记",
+            "title": "副研究员",
+            "degree": "硕士",
+            "major": "行政管理",
+            "tele": "23502758",
+            "email": "huangjy@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=huangjy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 137,
+        "fields": {
+            "name": "计控李彬",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副研究员",
+            "degree": "本科",
+            "major": "机械",
+            "tele": "23505706-812",
+            "email": "libinnk@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lib"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 138,
+        "fields": {
+            "name": "计控李朝晖",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "未知",
+            "email": "lizhaohui@nankai.edu.cn",
+            "field": "信息安全、生物信息、图形图像处理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lizh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 139,
+        "fields": {
+            "name": "计控李涛",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "022-23506776",
+            "email": "litao AT nankai dot edu dot cn",
+            "field": "异构计算, 机器学习, 网络科学, 物联网",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lit"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 140,
+        "fields": {
+            "name": "计控李雨森",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机科学与技术",
+            "tele": "未知",
+            "email": "liyusen@nbjl.nankai.edu.cn",
+            "field": "分布式系统，云计算",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liys"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 141,
+        "fields": {
+            "name": "计控李岳",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "liyue80@nankai.edu.cn",
+            "field": "图像处理、计算机视觉、计算机安全、软件工程",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liyue"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 142,
+        "fields": {
+            "name": "计控李忠伟",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "23504780",
+            "email": "lizhongwei@nankai.edu.cn",
+            "field": "数据库与知识库、机器学习",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lizw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 143,
+        "fields": {
+            "name": "计控刘杰",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机科学与技术",
+            "tele": "未知",
+            "email": "jliu@nankai.edu.cn",
+            "field": "机器学习；数据挖掘；大数据分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liujie"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 144,
+        "fields": {
+            "name": "计控刘哲理",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "信息安全",
+            "tele": "未知",
+            "email": "liuzheli@nankai.edu.cn",
+            "field": "信息安全;密态数据库;渗透测试;隐私保护;区块链",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liuzl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 145,
+        "fields": {
+            "name": "计控卢少平",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "slu@nankai.edu.cn",
+            "field": "可视计算、图形学与视觉、图像视频处理、机器学习",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lusp"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 146,
+        "fields": {
+            "name": "计控倪元华",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "yhni@nankai.edu.cn",
+            "field": "随机控制、最优控制、金融工程",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=niyh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 147,
+        "fields": {
+            "name": "计控秦岩丁",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "智能科学与技术",
+            "tele": "022 23503960-803",
+            "email": "qinyd@nankai.edu.cn",
+            "field": "微/纳操作机器人、超精密定位系统、气动人工肌肉、3D生物打印",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=qinyd"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 148,
+        "fields": {
+            "name": "计控饶一梅",
+            "sex": "女",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制",
+            "tele": "85358726",
+            "email": "raoyimei@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=raoym"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 149,
+        "fields": {
+            "name": "计控沈祖庭",
+            "sex": "女",
+            "depart": "学院行政管理",
+            "admin": "副院长",
+            "title": "副研究员",
+            "degree": "研究生",
+            "major": "行政管理",
+            "tele": "23505768",
+            "email": "shenzt@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=shenzt"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 150,
+        "fields": {
+            "name": "计控史广顺",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "未知",
+            "email": "gsshi@nankai.edu.cn",
+            "field": "模式识别与机器智能、数字图像处理、自然语言理解、软件开发技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=shigs"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 151,
+        "fields": {
+            "name": "计控宋起泉",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "副研究员",
+            "degree": "本科",
+            "major": "图书馆学",
+            "tele": "85358556",
+            "email": "gx@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=songqq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 152,
+        "fields": {
+            "name": "计控苏明",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副研究员",
+            "degree": "博士",
+            "major": "计算机与信息安全",
+            "tele": "未知",
+            "email": "suming@nankai.edu.cn",
+            "field": "数字版权管理，序列设计，数字水印，信息论与编码",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=suming"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 153,
+        "fields": {
+            "name": "计控孙广毅",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "自动化",
+            "tele": "未知",
+            "email": "未知",
+            "field": "微机电系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sungy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 154,
+        "fields": {
+            "name": "计控孙雷",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "23505706-813",
+            "email": "sunl@nankai.edu.cn",
+            "field": "Intelligent robot system, networked robot, trajectory planning, and robot simulation",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 155,
+        "fields": {
+            "name": "计控孙宁",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "未知",
+            "major": "控制理论与控制工程",
+            "tele": "23503960-804",
+            "email": "sunn@nankai.edu.cn",
+            "field": "陆地/船用吊车(起重机)自动控制，欠驱动机器人，机电系统控制",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunning"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 156,
+        "fields": {
+            "name": "计控王鸿鹏",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "智能科学与技术",
+            "tele": "23505706-815",
+            "email": "hpwang@nankai.edu.cn, hopwang@gmail.com",
+            "field": "机器人与智能系统, 云/网络/遥操作机器人, 野外与空中机器人， 虚拟/增强现实, 人工智能, 自然生态环境智能化监测",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wanghp"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 157,
+        "fields": {
+            "name": "计控王娟",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "硕士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "juanwang@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 158,
+        "fields": {
+            "name": "计控王恺",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "admin": "基础教学部副主任",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "未知",
+            "email": "wangk@nankai.edu.cn",
+            "field": "机器学习，计算机视觉",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangk"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 159,
+        "fields": {
+            "name": "计控王玮",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "生命信息系统科学",
+            "tele": "未知",
+            "email": "kevinwangwei@nankai.edu.cn",
+            "field": "图像处理与检索；智能信息处理、算法分析与设计；交叉学科研究",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangwei"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 160,
+        "fields": {
+            "name": "计控吴民",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "自动控制",
+            "tele": "未知",
+            "email": "wumin@nankai.edu.cn",
+            "field": "通信网络，Linux/Unix软件开发，物流和供应链管理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wum"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 161,
+        "fields": {
+            "name": "计控吴英",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "wuying@nankai.edu.cn",
+            "field": "车联网、物联网相关安全研究",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wuying"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 162,
+        "fields": {
+            "name": "计控邢树松",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "机器人",
+            "tele": "未知",
+            "email": "xings@nankai.edu.cn",
+            "field": "人机交互，机器人",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xingss"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 163,
+        "fields": {
+            "name": "计控徐颖",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "副教授",
+            "degree": "硕士",
+            "major": "人工智能",
+            "tele": "未知",
+            "email": "xuying@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xuy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 164,
+        "fields": {
+            "name": "计控许林",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "副系主任",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "23505706-816",
+            "email": "xul@nankai.edu.cn",
+            "field": "机电一体化、MEMS（微机电系统）、无线传感网络",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xulin"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 165,
+        "fields": {
+            "name": "计控杨巨峰",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "yangjufeng [AT] nankai.edu.cn",
+            "field": "计算机视觉、机器学习、多媒体计算、视觉大数据",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yangjf"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 166,
+        "fields": {
+            "name": "计控殷爱茹",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "yinar@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yinar"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 167,
+        "fields": {
+            "name": "计控于宁波",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "机器人",
+            "tele": "+86 (22) 23503960-801",
+            "email": "nyu AT nankai.edu.cn",
+            "field": "机器人与智能系统, 人与机器人的交互、协作与控制, 康复训练、医疗辅助和智能服务机器人",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=nyu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 168,
+        "fields": {
+            "name": "计控苑晶",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "未知",
+            "email": "nkyuanjing@gmail.com",
+            "field": "机器人控制、移动机器人导航、SLAM、多机器人系统、目标跟踪",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yuanjing"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 169,
+        "fields": {
+            "name": "计控张春燕",
+            "sex": "女",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "未知",
+            "major": "自动化",
+            "tele": "未知",
+            "email": "zhcy@nankai.edu.cn",
+            "field": "多机器人系统决策与任务分配，集群行为与群体智能，谣言/观点/疾病传播动力学，群体博弈与合作",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangcy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 170,
+        "fields": {
+            "name": "计控张金",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "nkzhangjin@nankai.edu.cn",
+            "field": "人工智能与自然语言处理,互联网金融;认知科学与脑计算;物联网与云计算;",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjin"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 171,
+        "fields": {
+            "name": "计控张娟娟",
+            "sex": "女",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "022-23503960-805",
+            "email": "juanjuanzhang@nankai.edu.cn",
+            "field": "下肢外骨骼机器人",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 172,
+        "fields": {
+            "name": "计控张雪波",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制理论与工程",
+            "tele": "23505706-809",
+            "email": "zhangxuebo@nankai.edu.cn",
+            "field": "移动机器人学，视觉伺服，运动规划，无人车自主导航，多摄像机网络。",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangxb"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 173,
+        "fields": {
+            "name": "计控张莹",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "yingzhang@nankai.edu.cn",
+            "field": "自然语言处理、人工智能、数据挖掘、机器学习",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangying"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 174,
+        "fields": {
+            "name": "计控张玉",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "信息安全",
+            "tele": "未知",
+            "email": "zhangyu1981@nankai.edu.cn",
+            "field": "计算机网络与信息安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangyu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 175,
+        "fields": {
+            "name": "计控赵宏",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "admin": "基础教学部主任",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "软件",
+            "tele": "022-23502290",
+            "email": "zhaoh@nankai.edu.cn",
+            "field": "智能计算及应用、环境大数据挖掘、环境保护科学技术研发",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaoh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 176,
+        "fields": {
+            "name": "计控周环",
+            "sex": "女",
+            "depart": "学院行政管理",
+            "admin": "办公室主任",
+            "title": "副研究员",
+            "degree": "未知",
+            "major": "国际经贸关系",
+            "tele": "23503438",
+            "email": "zhouhuan@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhouhuan"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 177,
+        "fields": {
+            "name": "计控别东洋",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "未知",
+            "field": "模块化机器人、医疗机器人",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=bdyang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 178,
+        "fields": {
+            "name": "计控蔡庆琼",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "caiqingqiong@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=caiqq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 179,
+        "fields": {
+            "name": "计控高裴裴",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "watersky@nankai.edu.cn",
+            "field": "情感计算，语音合成",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=gaopp"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 180,
+        "fields": {
+            "name": "计控古力",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "光学工程",
+            "tele": "未知",
+            "email": "guli@nankai.edu.cn",
+            "field": "主要从事混沌密码学和混沌Hash函数方面的研究",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=gul"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 181,
+        "fields": {
+            "name": "计控郭宪",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "guoxian@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=guoxian"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 182,
+        "fields": {
+            "name": "计控过辰楷",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "未知",
+            "email": "chenkai.guo@163.com",
+            "field": "软件工程、程序分析、移动应用分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=guock"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 183,
+        "fields": {
+            "name": "计控韩玲",
+            "sex": "女",
+            "depart": "学院行政管理",
+            "admin": "党委副书记、副院长",
+            "title": "讲师",
+            "degree": "本科",
+            "major": "思想政治教育",
+            "tele": "23504951",
+            "email": "hanling@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=hanling"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 184,
+        "fields": {
+            "name": "计控康宏",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "kanghong@nankai.edu.cn",
+            "field": "数据库技术，中间件技术，J2EE",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=kangh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 185,
+        "fields": {
+            "name": "计控李敏",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "13820318223",
+            "email": "limintj@nankai.edu.cn",
+            "field": "信息安全；密码学应用",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lim"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 186,
+        "fields": {
+            "name": "计控李兴娟",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "硕士",
+            "major": "控制理论与控制工程",
+            "tele": "未知",
+            "email": "lxjuan@nankai.edu.cn",
+            "field": "网络安全, 无线和移动网络，应用系统开发",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lixj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 187,
+        "fields": {
+            "name": "计控梁潇",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "liangx@nankai.edu.cn; liangx@mail.nankai.edu.cn",
+            "field": "旋翼无人飞行器运动控制，飞行吊运系统，飞行机械臂系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liangxiao"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 188,
+        "fields": {
+            "name": "计控蒲凌君",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "未知",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "pulingjun@nankai.edu.cn",
+            "field": "Emerging and Advanced Network Framework for Edge+IoT+AI",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=pulj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 189,
+        "fields": {
+            "name": "计控全雄文",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "23507780",
+            "email": "quanxw@nankai.edu.cn",
+            "field": "优化理论与应用，供应链管理，管理信息系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=quanxw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 190,
+        "fields": {
+            "name": "计控任博",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "85358095",
+            "email": "rb@nankai.edu.cn",
+            "field": "真实感模拟与渲染，三维重建，几何模型处理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=renbo"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 191,
+        "fields": {
+            "name": "计控任明明",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "数学",
+            "tele": "23504780",
+            "email": "rmingming at nankai_edu_cn",
+            "field": "并行计算、复杂系统模拟",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=renmm"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 192,
+        "fields": {
+            "name": "计控沈玮",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "未知",
+            "email": "shenwei@nankai.edu.cn",
+            "field": "数据挖掘，大数据分析，万维网数据管理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=shenwei"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 193,
+        "fields": {
+            "name": "计控宋春瑶",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "Computer Science",
+            "tele": "未知",
+            "email": "chunyao.song@nankai.edu.cn",
+            "field": "数据库系统及管理，不确定数据，数据流，科学数据库，图数据，大数据。",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=songcy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 194,
+        "fields": {
+            "name": "计控孙明竹",
+            "sex": "女",
+            "depart": "机器人与信息自动化研究所",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "23503960-802",
+            "email": "sunmz@nankai.edu.cn",
+            "field": "微操作机器人，显微视觉，生物目标视觉跟踪，生物模式形成建模与仿真",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunmz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 195,
+        "fields": {
+            "name": "计控王刚",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "未知",
+            "email": "ganggang@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wgang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 196,
+        "fields": {
+            "name": "计控王志",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "信息安全",
+            "tele": "未知",
+            "email": "zwang@nankai.edu.cn",
+            "field": "计算机恶意代码分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 197,
+        "fields": {
+            "name": "计控许昱玮",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "xuyw@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xuyuwei"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 198,
+        "fields": {
+            "name": "计控于刚",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "通信与信息系统",
+            "tele": "未知",
+            "email": "yugang@nankai.edu.cn",
+            "field": "计算机网络 P2P系统及应用",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yugang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 199,
+        "fields": {
+            "name": "计控张海威",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "zhhaiwei@nankai.edu.cn",
+            "field": "数据库、数据挖掘、XML数据管理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhhaiwei"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 200,
+        "fields": {
+            "name": "计控张建磊",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "jianleizhang@nankai.edu.cn",
+            "field": "人工智能与群体智能 演化博弈理论与深度学习 网络博弈与神经网络 无人机系统智能控制 多机器人系统的协调与控制 网络化控制系统的分析与综合 集群行为与集群智能 演化博弈与群体决策",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 201,
+        "fields": {
+            "name": "计控张健",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "软件",
+            "tele": "未知",
+            "email": "bfb@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 202,
+        "fields": {
+            "name": "计控包秀娟",
+            "sex": "女",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "研究生",
+            "major": "未知",
+            "tele": "85358661",
+            "email": "baoxiujuan2008@163.com",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=baoxj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 203,
+        "fields": {
+            "name": "计控陈金志",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "实验师",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "未知",
+            "email": "chenjz@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenjz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 204,
+        "fields": {
+            "name": "计控陈景林",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "title": "高级工程师",
+            "degree": "本科",
+            "major": "机械",
+            "tele": "022-23508410",
+            "email": "cjlcjl@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenjl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 205,
+        "fields": {
+            "name": "计控董前琨",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "研究生",
+            "major": "计算机科学与技术",
+            "tele": "未知",
+            "email": "qiankund@nankai.edu.cn",
+            "field": "并行与分布式处理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=dongqk"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 206,
+        "fields": {
+            "name": "计控郭天勇",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "title": "高级实验师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "未知",
+            "email": "guoty@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=guoty"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 207,
+        "fields": {
+            "name": "计控郭蕴",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "助理实验师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "022-23508410",
+            "email": "guoyun@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=guoy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 208,
+        "fields": {
+            "name": "计控黄大刚",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "admin": "实验中心副主任",
+            "title": "高级工程师",
+            "degree": "本科",
+            "major": "光学",
+            "tele": "23505171",
+            "email": "huangdagang@nankai.edu.cn",
+            "field": "控制科学与工程(检测技术与自动化装置),光学工程,仪器科学与技术(测试计量技术及仪器)",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=huangdg"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 209,
+        "fields": {
+            "name": "计控康介恢",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "硕士",
+            "major": "计算机应用",
+            "tele": "未知",
+            "email": "kangjiehui@nankai.edu.cn",
+            "field": "软件理论与测试",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=kangjh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 210,
+        "fields": {
+            "name": "计控李妍",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "实验师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "022-23508410",
+            "email": "liyan081306@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liyan"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 211,
+        "fields": {
+            "name": "计控林浩",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "工程师",
+            "degree": "本科",
+            "major": "应用",
+            "tele": "未知",
+            "email": "karlin@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=linh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 212,
+        "fields": {
+            "name": "计控刘嘉欣",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "admin": "实验中心副主任",
+            "title": "高级实验师",
+            "degree": "本科",
+            "major": "软件",
+            "tele": "未知",
+            "email": "liujx@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liujx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 213,
+        "fields": {
+            "name": "计控刘瑞琴",
+            "sex": "女",
+            "depart": "实验教学中心",
+            "title": "工程师",
+            "degree": "本科",
+            "major": "计应用",
+            "tele": "23500526",
+            "email": "dragon@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liurq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 214,
+        "fields": {
+            "name": "计控刘爽",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "title": "工程师",
+            "degree": "本科",
+            "major": "应用",
+            "tele": "022-23508410",
+            "email": "shuangliu@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lius"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 215,
+        "fields": {
+            "name": "计控卢冶",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "实验师",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "luye@nankai.edu.cn",
+            "field": "边缘计算;物联网; 嵌入式系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=luye"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 216,
+        "fields": {
+            "name": "计控路明晓",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "助理实验师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "022-23508410",
+            "email": "lumx@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lumx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 217,
+        "fields": {
+            "name": "计控乜鹏",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "研究生",
+            "major": "软件工程",
+            "tele": "13602157486",
+            "email": "niepeng@nankai.edu.cn",
+            "field": "软件工程",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=niep"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 218,
+        "fields": {
+            "name": "计控孙月",
+            "sex": "女",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "未知",
+            "email": "yuesun@nankai.edu.cn",
+            "field": "机器人技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=suny"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 219,
+        "fields": {
+            "name": "计控王冬梅",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "高级实验师",
+            "degree": "本科",
+            "major": "未知",
+            "tele": "022-23508410",
+            "email": "wangdongmei@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangdm"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 220,
+        "fields": {
+            "name": "计控王晓娜",
+            "sex": "女",
+            "depart": "自动化与智能科学系",
+            "title": "工程师",
+            "degree": "大专",
+            "major": "电子与信息",
+            "tele": "23505706-806",
+            "email": "wangxn@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangxn"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 221,
+        "fields": {
+            "name": "计控温延龙",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "admin": "系主任助理",
+            "title": "高级实验师",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "85358995",
+            "email": "wenyl@nankai.edu.cn",
+            "field": "数据库技术、信息检索",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wenyl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 222,
+        "fields": {
+            "name": "计控徐宁",
+            "sex": "女",
+            "depart": "实验教学中心",
+            "title": "高级工程师",
+            "degree": "本科",
+            "major": "计应用",
+            "tele": "85358936",
+            "email": "xuning@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xun"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 223,
+        "fields": {
+            "name": "计控许丽",
+            "sex": "女",
+            "depart": "实验教学中心",
+            "title": "实验师",
+            "degree": "硕士",
+            "major": "未知",
+            "tele": "23505171",
+            "email": "xuli@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xuli"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 224,
+        "fields": {
+            "name": "计控闫晓玉",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "助理实验师",
+            "degree": "硕士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "18653725347@139.com",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yanxy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 225,
+        "fields": {
+            "name": "计控张彪",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "研究生",
+            "major": "未知",
+            "tele": "23498953",
+            "email": "zhangbiao@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangbiao"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 226,
+        "fields": {
+            "name": "计控张涛",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "研究生",
+            "major": "未知",
+            "tele": "85358936",
+            "email": "zhangt@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangtao"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 227,
+        "fields": {
+            "name": "计控张小林",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "高级实验师",
+            "degree": "未知",
+            "major": "物理系",
+            "tele": "23498953",
+            "email": "zhangxl@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangxl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 228,
+        "fields": {
+            "name": "计控周璐",
+            "sex": "女",
+            "depart": "自动化与智能科学系",
+            "admin": "系主任助理",
+            "title": "实验师",
+            "degree": "硕士",
+            "major": "未知",
+            "tele": "23505706-806",
+            "email": "zhoulu@nankai.edu.cn",
+            "field": "模式识别与智能系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhoulu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 229,
+        "fields": {
+            "name": "计控朱美玲",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "工程师",
+            "degree": "大专",
+            "major": "计算机",
+            "tele": "022-23503590",
+            "email": "zhml@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhuml"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 230,
+        "fields": {
+            "name": "计控于宁波",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "机器人",
+            "tele": "+86 (22) 23503960-801",
+            "email": "nyu AT nankai.edu.cn",
+            "field": "机器人与智能系统, 人与机器人的交互、协作与控制, 康复训练、医疗辅助和智能服务机器人",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=nyu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 231,
+        "fields": {
+            "name": "计控方勇纯",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制",
+            "tele": "23505706-802，85358689",
+            "email": "fangyc@nankai.edu.cn",
+            "field": "机器人视觉控制；无人机；欠驱动吊车系统；微纳米操作",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=fangyc"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 232,
+        "fields": {
+            "name": "计控刘杰",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机科学与技术",
+            "tele": "未知",
+            "email": "jliu@nankai.edu.cn",
+            "field": "机器学习；数据挖掘；大数据分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liujie"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 233,
+        "fields": {
+            "name": "计控赵新",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "副院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "23505706-803,85358825",
+            "email": "zhaoxin@nankai.edu.cn",
+            "field": "微操作机器人系统，微纳设计与加工，生物模式形成与组织发育建模",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaox"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 234,
+        "fields": {
+            "name": "计控秦岩丁",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "智能科学与技术",
+            "tele": "022 23503960-803",
+            "email": "qinyd@nankai.edu.cn",
+            "field": "微/纳操作机器人、超精密定位系统、气动人工肌肉、3D生物打印",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=qinyd"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 235,
+        "fields": {
+            "name": "计控赵新",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "副院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "23505706-803,85358825",
+            "email": "zhaoxin@nankai.edu.cn",
+            "field": "微操作机器人系统，微纳设计与加工，生物模式形成与组织发育建模",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaox"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 236,
+        "fields": {
+            "name": "计控王鸿鹏",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "智能科学与技术",
+            "tele": "23505706-815",
+            "email": "hpwang@nankai.edu.cn, hopwang@gmail.com",
+            "field": "机器人与智能系统, 云/网络/遥操作机器人, 野外与空中机器人， 虚拟/增强现实, 人工智能, 自然生态环境智能化监测",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wanghp"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 237,
+        "fields": {
+            "name": "计控刘晓光",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "admin": "副院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "23504780",
+            "email": "liuxg74 [AT] hotmail.com",
+            "field": "云存储 搜索引擎 区块链系统 云计算/大数据平台 计算经济学",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liuxg"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 238,
+        "fields": {
+            "name": "计控孙宁",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "未知",
+            "major": "控制理论与控制工程",
+            "tele": "23503960-804",
+            "email": "sunn@nankai.edu.cn",
+            "field": "陆地/船用吊车(起重机)自动控制，欠驱动机器人，机电系统控制",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunning"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 239,
+        "fields": {
+            "name": "计控袁晓洁",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机软件",
+            "tele": "23509175",
+            "email": "yuanxj[at]nankai.edu.cn",
+            "field": "数据库、知识工程、大数据技术、机器学习、Web检索与挖掘",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yuanxj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 240,
+        "fields": {
+            "name": "计控方勇纯",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制",
+            "tele": "23505706-802，85358689",
+            "email": "fangyc@nankai.edu.cn",
+            "field": "机器人视觉控制；无人机；欠驱动吊车系统；微纳米操作",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=fangyc"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 241,
+        "fields": {
+            "name": "计控张建勋",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制理论与应用",
+            "tele": "23505706-805",
+            "email": "zhangjx@nankai.edu.cn",
+            "field": "智能机器人控制、计算机网络与信息系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 242,
+        "fields": {
+            "name": "计控王刚",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "未知",
+            "email": "ganggang@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wgang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 243,
+        "fields": {
+            "name": "计控张玉",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "信息安全",
+            "tele": "未知",
+            "email": "zhangyu1981@nankai.edu.cn",
+            "field": "计算机网络与信息安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangyu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 244,
+        "fields": {
+            "name": "计控张建忠",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机应用",
+            "tele": "未知",
+            "email": "zhangjz@nankai.edu.cn",
+            "field": "网络大数据分析，网络安全，移动计算，软件定义网络（SDN）",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 245,
+        "fields": {
+            "name": "计控代煜",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制科学与工程",
+            "tele": "23505706-811",
+            "email": "daiyu@nankai.edu.cn",
+            "field": "面向手术机器人的智能感知技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=daiyu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 246,
+        "fields": {
+            "name": "计控张建勋",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制理论与应用",
+            "tele": "23505706-805",
+            "email": "zhangjx@nankai.edu.cn",
+            "field": "智能机器人控制、计算机网络与信息系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 247,
+        "fields": {
+            "name": "计控张金",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "nkzhangjin@nankai.edu.cn",
+            "field": "人工智能与自然语言处理,互联网金融;认知科学与脑计算;物联网与云计算;",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjin"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 248,
+        "fields": {
+            "name": "计控浅间一",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "讲座教授",
+            "degree": "博士",
+            "major": "机器人",
+            "tele": "022-23508547",
+            "email": "190859741@qq.com",
+            "field": "核电站安全检测与救灾机器人，脑机接口技术，服务机器人，人工智能，机器人技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=qjy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 249,
+        "fields": {
+            "name": "计控张海威",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "zhhaiwei@nankai.edu.cn",
+            "field": "数据库、数据挖掘、XML数据管理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhhaiwei"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 250,
+        "fields": {
+            "name": "计控赵新",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "副院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "23505706-803,85358825",
+            "email": "zhaoxin@nankai.edu.cn",
+            "field": "微操作机器人系统，微纳设计与加工，生物模式形成与组织发育建模",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaox"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 251,
+        "fields": {
+            "name": "计控孙明竹",
+            "sex": "女",
+            "depart": "机器人与信息自动化研究所",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "23503960-802",
+            "email": "sunmz@nankai.edu.cn",
+            "field": "微操作机器人，显微视觉，生物目标视觉跟踪，生物模式形成建模与仿真",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunmz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 252,
+        "fields": {
+            "name": "计控袁晓洁",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机软件",
+            "tele": "23509175",
+            "email": "yuanxj[at]nankai.edu.cn",
+            "field": "数据库、知识工程、大数据技术、机器学习、Web检索与挖掘",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yuanxj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 253,
+        "fields": {
+            "name": "计控陈增强",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "admin": "副所长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "控制",
+            "tele": "23508547",
+            "email": "chenzq@nankai.edu.cn",
+            "field": "智能预测控制与智能优化计算、复杂系统建模优化与控制、多智能体系统与复杂网络、离散事件逻辑动态系统建模与分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenzq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 254,
+        "fields": {
+            "name": "计控谭永红",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "兼职教授",
+            "degree": "博士",
+            "major": "自动化与控制工程系电机工程",
+            "tele": "021-57122955",
+            "email": "tany@shnu.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=tanyh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 255,
+        "fields": {
+            "name": "计控张玉军",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "兼职教授",
+            "degree": "未知",
+            "major": "计算机系统结构",
+            "tele": "未知",
+            "email": "zhangyj@nankai.edu.cn",
+            "field": "计算机网络，未来网络，网络安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangyj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 256,
+        "fields": {
+            "name": "计控周明",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "兼职教授",
+            "degree": "博士",
+            "major": "计算机科学与技术",
+            "tele": "未知",
+            "email": "未知",
+            "field": "机器翻译、自然语言处理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhouming"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 257,
+        "fields": {
+            "name": "计控张永铮",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "兼职教授",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "未知",
+            "email": "zhangyu1981@nankai.edu.cn",
+            "field": "网络安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangyz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 258,
+        "fields": {
+            "name": "计控高雨青",
+            "sex": "女",
+            "depart": "兼职博士生导师",
+            "title": "客座教授",
+            "degree": "未知",
+            "major": "计算机，认知计算",
+            "tele": "未知",
+            "email": "未知",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=Gaoyq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 259,
+        "fields": {
+            "name": "计控沈晓卫",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "客座教授",
+            "degree": "未知",
+            "major": "计算机，物联网",
+            "tele": "未知",
+            "email": "未知",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=Shenxw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 260,
+        "fields": {
+            "name": "计控陈云霁",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "未知",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "未知",
+            "email": "未知",
+            "field": "微体系结构 机器学习 并行计算 视频处理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenyunji"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 261,
+        "fields": {
+            "name": "计控白刚",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机应用，模式识别",
+            "tele": "23500132",
+            "email": "baigang@nankai.edu.cn",
+            "field": "人工智能，机器学习，模式识别，计算机视觉",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=baig"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 262,
+        "fields": {
+            "name": "计控陈万义",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制专业",
+            "tele": "未知",
+            "email": "wychen@nankai.edu.cn",
+            "field": "鲁棒控制理论、金融数学与金融工程",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenwy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 263,
+        "fields": {
+            "name": "计控陈增强",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "admin": "副所长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "控制",
+            "tele": "23508547",
+            "email": "chenzq@nankai.edu.cn",
+            "field": "智能预测控制与智能优化计算、复杂系统建模优化与控制、多智能体系统与复杂网络、离散事件逻辑动态系统建模与分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenzq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 264,
+        "fields": {
+            "name": "计控程明明",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机科学与技术",
+            "tele": "85358570",
+            "email": "cmm@nankai.edu.cn",
+            "field": "计算机视觉、人工智能、图像视频大数据分析、计算机图形学",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chengmm"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 265,
+        "fields": {
+            "name": "计控程仁洪",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "研究生",
+            "major": "控制理论与控制工程",
+            "tele": "未知",
+            "email": "chengrh@nankai.edu.cn",
+            "field": "数据库技术及应用,软件性能,智能控制与检测系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chengrh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 266,
+        "fields": {
+            "name": "计控段峰",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "精密机械",
+            "tele": "85358718",
+            "email": "duanf@nankai.edu.cn",
+            "field": "机器人技术，肌电假手，康复机器人，机器人视觉，家庭服务机器人，人体技能分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=duanf"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 267,
+        "fields": {
+            "name": "计控方勇纯",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制",
+            "tele": "23505706-802，85358689",
+            "email": "fangyc@nankai.edu.cn",
+            "field": "机器人视觉控制；无人机；欠驱动吊车系统；微纳米操作",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=fangyc"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 268,
+        "fields": {
+            "name": "计控韩建达",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "教授",
+            "degree": "博士",
+            "major": "机器人与自动化",
+            "tele": "022 23505706-808",
+            "email": "hanjianda@nankai.edu.cn",
+            "field": "机器人自主行为与人机协作/共融方法，医疗康复机器人、地面移动及飞行机器人技术与系统；详细请参见：http://robot.nankai.edu.cn/t/hanjd_research.pdf",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=hanjd"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 269,
+        "fields": {
+            "name": "计控贾春福",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "admin": "副系主任",
+            "title": "教授",
+            "degree": "博士",
+            "major": "控制",
+            "tele": "未知",
+            "email": "cfjia@nankai.edu.cn",
+            "field": "网络与信息安全；可信计算与软件安全；恶意代码分析; 密码应用技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=jiacf"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 270,
+        "fields": {
+            "name": "计控李庆诚",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动化",
+            "tele": "未知",
+            "email": "Liqch@nankai.edu.cn",
+            "field": "嵌入式操作系统与信息安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liqc"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 271,
+        "fields": {
+            "name": "计控刘景泰",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "所长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动化",
+            "tele": "23505706-801",
+            "email": "liujt@nankai.edu.cn;",
+            "field": "机器人技术，计算机应用与信息自动化系统，智能科学与技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liujt"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 272,
+        "fields": {
+            "name": "计控刘晓光",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "admin": "副院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "23504780",
+            "email": "liuxg74 [AT] hotmail.com",
+            "field": "云存储 搜索引擎 区块链系统 云计算/大数据平台 计算经济学",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liuxg"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 273,
+        "fields": {
+            "name": "计控刘忠信",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "admin": "系主任",
+            "title": "教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "022-23508547",
+            "email": "lzhx@nankai.edu.cn",
+            "field": "多智能体系统，复杂动态网络，计算机控制与管理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liuzhx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 274,
+        "fields": {
+            "name": "计控邵秀丽",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机软件",
+            "tele": "办公室 计算机与控制工程楼407 85358270",
+            "email": "shaoxl@nankai.edu.cn",
+            "field": "数据分析、智能系统、CSCW协同控制",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=shaoxl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 275,
+        "fields": {
+            "name": "计控孙明玮",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动化",
+            "tele": "85358191",
+            "email": "smw_sunmingwei@163.com",
+            "field": "预测控制、自抗扰控制、飞行器制导与控制和非线性优化等",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunmw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 276,
+        "fields": {
+            "name": "计控孙青林",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "admin": "实验中心主任",
+            "title": "教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "23508547",
+            "email": "sunql@nankai.edu.cn",
+            "field": "自适应控制、嵌入式控制系统、柔性飞行器建模与控制",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunql"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 277,
+        "fields": {
+            "name": "计控王刚（计）",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "软件",
+            "tele": "23504780",
+            "email": "wgzwp@163.com",
+            "field": "海量信息存储、并行与分布式计算",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangg"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 278,
+        "fields": {
+            "name": "计控卫金茂",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "admin": "副所长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机应用",
+            "tele": "85358690(NA)",
+            "email": "weijm@nankai.edu.cn;",
+            "field": "机器学习，数据挖掘，智能信息处理，生物信息学",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=weijm"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 279,
+        "fields": {
+            "name": "计控辛运帏",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "软件",
+            "tele": "未知",
+            "email": "xinyw@nankai.edu.cn",
+            "field": "信息自动化 智能软件系统 数字医疗系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xinyw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 280,
+        "fields": {
+            "name": "计控徐敬东",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "admin": "系主任",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机应用",
+            "tele": "85358865",
+            "email": "xujd@nankai.edu.cn",
+            "field": "移动边缘计算、网络大数据分析、软件定义网络（SDN）、网络安全等",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xujd"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 281,
+        "fields": {
+            "name": "计控许静",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "admin": "副系主任、所长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机应用",
+            "tele": "23500350",
+            "email": "xujing@nankai.edu.cn",
+            "field": "软件工程、软件测试、软件安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xuj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 282,
+        "fields": {
+            "name": "计控杨愚鲁",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "yangyl@nankai.edu.cn",
+            "field": "并行与分布式处理，系统结构，可重构系统，网格计算",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yangyl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 283,
+        "fields": {
+            "name": "计控杨征路",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "admin": "所长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机科学与信息安全系大数据技术研究所",
+            "tele": "85358477",
+            "email": "yangzl@nankai.edu.cn",
+            "field": "人工智能，数据挖掘，信息检索",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yangzl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 284,
+        "fields": {
+            "name": "计控袁晓洁",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机软件",
+            "tele": "23509175",
+            "email": "yuanxj[at]nankai.edu.cn",
+            "field": "数据库、知识工程、大数据技术、机器学习、Web检索与挖掘",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yuanxj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 285,
+        "fields": {
+            "name": "计控张瀚",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "admin": "副系主任",
+            "title": "教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "85358726",
+            "email": "zhanghan@nankai.edu.cn",
+            "field": "机器学习与数据挖掘、信息安全、生物信息大数据分析与挖掘",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 286,
+        "fields": {
+            "name": "计控张建勋",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制理论与应用",
+            "tele": "23505706-805",
+            "email": "zhangjx@nankai.edu.cn",
+            "field": "智能机器人控制、计算机网络与信息系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 287,
+        "fields": {
+            "name": "计控张建忠",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机应用",
+            "tele": "未知",
+            "email": "zhangjz@nankai.edu.cn",
+            "field": "网络大数据分析，网络安全，移动计算，软件定义网络（SDN）",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 288,
+        "fields": {
+            "name": "计控赵新",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "副院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "23505706-803,85358825",
+            "email": "zhaoxin@nankai.edu.cn",
+            "field": "微操作机器人系统，微纳设计与加工，生物模式形成与组织发育建模",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaox"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 289,
+        "fields": {
+            "name": "计控Jeffrey Too Chuan TAN",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "精密机械",
+            "tele": "022-85358718",
+            "email": "jeffrey@nankai.edu.cn",
+            "field": "家庭服务机器人，人工智能，人机交互，机器人教育，信息物理系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=jeffrey"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 290,
+        "fields": {
+            "name": "计控Rebecca J.Stones",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "rebecca.stones82 AT gmail DOT com",
+            "field": "组合优化、编码、信息安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=rebecca"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 291,
+        "fields": {
+            "name": "计控陈晨",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "nkchenchen at nankai dot edu dot cn",
+            "field": "自然语言处理, 信息检索, 机器学习, 社会计算",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenchen"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 292,
+        "fields": {
+            "name": "计控丛跃进",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "硕士",
+            "major": "机械",
+            "tele": "未知",
+            "email": "congyj@nankai.edu.cn",
+            "field": "图像视频分析、环境智能监控、振动分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=congyj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 293,
+        "fields": {
+            "name": "计控代煜",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制科学与工程",
+            "tele": "23505706-811",
+            "email": "daiyu@nankai.edu.cn",
+            "field": "面向手术机器人的智能感知技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=daiyu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 294,
+        "fields": {
+            "name": "计控宫晓利",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "gongxiaoli (at) nankai (dot) edu (dot) cn",
+            "field": "嵌入式系统，移动云计算，物联网",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=gongxl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 295,
+        "fields": {
+            "name": "计控黄家友",
+            "sex": "男",
+            "depart": "学院行政管理",
+            "admin": "党委书记",
+            "title": "副研究员",
+            "degree": "硕士",
+            "major": "行政管理",
+            "tele": "23502758",
+            "email": "huangjy@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=huangjy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 296,
+        "fields": {
+            "name": "计控李彬",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副研究员",
+            "degree": "本科",
+            "major": "机械",
+            "tele": "23505706-812",
+            "email": "libinnk@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lib"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 297,
+        "fields": {
+            "name": "计控李朝晖",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "未知",
+            "email": "lizhaohui@nankai.edu.cn",
+            "field": "信息安全、生物信息、图形图像处理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lizh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 298,
+        "fields": {
+            "name": "计控李涛",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "022-23506776",
+            "email": "litao AT nankai dot edu dot cn",
+            "field": "异构计算, 机器学习, 网络科学, 物联网",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lit"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 299,
+        "fields": {
+            "name": "计控李雨森",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机科学与技术",
+            "tele": "未知",
+            "email": "liyusen@nbjl.nankai.edu.cn",
+            "field": "分布式系统，云计算",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liys"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 300,
+        "fields": {
+            "name": "计控李岳",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "liyue80@nankai.edu.cn",
+            "field": "图像处理、计算机视觉、计算机安全、软件工程",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liyue"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 301,
+        "fields": {
+            "name": "计控李忠伟",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "23504780",
+            "email": "lizhongwei@nankai.edu.cn",
+            "field": "数据库与知识库、机器学习",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lizw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 302,
+        "fields": {
+            "name": "计控刘杰",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机科学与技术",
+            "tele": "未知",
+            "email": "jliu@nankai.edu.cn",
+            "field": "机器学习；数据挖掘；大数据分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liujie"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 303,
+        "fields": {
+            "name": "计控刘哲理",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "信息安全",
+            "tele": "未知",
+            "email": "liuzheli@nankai.edu.cn",
+            "field": "信息安全;密态数据库;渗透测试;隐私保护;区块链",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liuzl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 304,
+        "fields": {
+            "name": "计控卢少平",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "slu@nankai.edu.cn",
+            "field": "可视计算、图形学与视觉、图像视频处理、机器学习",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lusp"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 305,
+        "fields": {
+            "name": "计控倪元华",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "yhni@nankai.edu.cn",
+            "field": "随机控制、最优控制、金融工程",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=niyh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 306,
+        "fields": {
+            "name": "计控秦岩丁",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "智能科学与技术",
+            "tele": "022 23503960-803",
+            "email": "qinyd@nankai.edu.cn",
+            "field": "微/纳操作机器人、超精密定位系统、气动人工肌肉、3D生物打印",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=qinyd"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 307,
+        "fields": {
+            "name": "计控饶一梅",
+            "sex": "女",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制",
+            "tele": "85358726",
+            "email": "raoyimei@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=raoym"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 308,
+        "fields": {
+            "name": "计控沈祖庭",
+            "sex": "女",
+            "depart": "学院行政管理",
+            "admin": "副院长",
+            "title": "副研究员",
+            "degree": "研究生",
+            "major": "行政管理",
+            "tele": "23505768",
+            "email": "shenzt@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=shenzt"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 309,
+        "fields": {
+            "name": "计控史广顺",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "未知",
+            "email": "gsshi@nankai.edu.cn",
+            "field": "模式识别与机器智能、数字图像处理、自然语言理解、软件开发技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=shigs"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 310,
+        "fields": {
+            "name": "计控宋起泉",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "副研究员",
+            "degree": "本科",
+            "major": "图书馆学",
+            "tele": "85358556",
+            "email": "gx@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=songqq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 311,
+        "fields": {
+            "name": "计控苏明",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副研究员",
+            "degree": "博士",
+            "major": "计算机与信息安全",
+            "tele": "未知",
+            "email": "suming@nankai.edu.cn",
+            "field": "数字版权管理，序列设计，数字水印，信息论与编码",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=suming"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 312,
+        "fields": {
+            "name": "计控孙广毅",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "自动化",
+            "tele": "未知",
+            "email": "未知",
+            "field": "微机电系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sungy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 313,
+        "fields": {
+            "name": "计控孙雷",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "23505706-813",
+            "email": "sunl@nankai.edu.cn",
+            "field": "Intelligent robot system, networked robot, trajectory planning, and robot simulation",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 314,
+        "fields": {
+            "name": "计控孙宁",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "未知",
+            "major": "控制理论与控制工程",
+            "tele": "23503960-804",
+            "email": "sunn@nankai.edu.cn",
+            "field": "陆地/船用吊车(起重机)自动控制，欠驱动机器人，机电系统控制",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunning"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 315,
+        "fields": {
+            "name": "计控王鸿鹏",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "智能科学与技术",
+            "tele": "23505706-815",
+            "email": "hpwang@nankai.edu.cn, hopwang@gmail.com",
+            "field": "机器人与智能系统, 云/网络/遥操作机器人, 野外与空中机器人， 虚拟/增强现实, 人工智能, 自然生态环境智能化监测",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wanghp"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 316,
+        "fields": {
+            "name": "计控王娟",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "硕士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "juanwang@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 317,
+        "fields": {
+            "name": "计控王恺",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "admin": "基础教学部副主任",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "未知",
+            "email": "wangk@nankai.edu.cn",
+            "field": "机器学习，计算机视觉",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangk"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 318,
+        "fields": {
+            "name": "计控王玮",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "生命信息系统科学",
+            "tele": "未知",
+            "email": "kevinwangwei@nankai.edu.cn",
+            "field": "图像处理与检索；智能信息处理、算法分析与设计；交叉学科研究",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangwei"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 319,
+        "fields": {
+            "name": "计控吴民",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "自动控制",
+            "tele": "未知",
+            "email": "wumin@nankai.edu.cn",
+            "field": "通信网络，Linux/Unix软件开发，物流和供应链管理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wum"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 320,
+        "fields": {
+            "name": "计控吴英",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "wuying@nankai.edu.cn",
+            "field": "车联网、物联网相关安全研究",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wuying"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 321,
+        "fields": {
+            "name": "计控邢树松",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "机器人",
+            "tele": "未知",
+            "email": "xings@nankai.edu.cn",
+            "field": "人机交互，机器人",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xingss"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 322,
+        "fields": {
+            "name": "计控徐颖",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "副教授",
+            "degree": "硕士",
+            "major": "人工智能",
+            "tele": "未知",
+            "email": "xuying@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xuy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 323,
+        "fields": {
+            "name": "计控许林",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "副系主任",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "23505706-816",
+            "email": "xul@nankai.edu.cn",
+            "field": "机电一体化、MEMS（微机电系统）、无线传感网络",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xulin"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 324,
+        "fields": {
+            "name": "计控杨巨峰",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "yangjufeng [AT] nankai.edu.cn",
+            "field": "计算机视觉、机器学习、多媒体计算、视觉大数据",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yangjf"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 325,
+        "fields": {
+            "name": "计控殷爱茹",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "yinar@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yinar"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 326,
+        "fields": {
+            "name": "计控于宁波",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "机器人",
+            "tele": "+86 (22) 23503960-801",
+            "email": "nyu AT nankai.edu.cn",
+            "field": "机器人与智能系统, 人与机器人的交互、协作与控制, 康复训练、医疗辅助和智能服务机器人",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=nyu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 327,
+        "fields": {
+            "name": "计控苑晶",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "未知",
+            "email": "nkyuanjing@gmail.com",
+            "field": "机器人控制、移动机器人导航、SLAM、多机器人系统、目标跟踪",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yuanjing"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 328,
+        "fields": {
+            "name": "计控张春燕",
+            "sex": "女",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "未知",
+            "major": "自动化",
+            "tele": "未知",
+            "email": "zhcy@nankai.edu.cn",
+            "field": "多机器人系统决策与任务分配，集群行为与群体智能，谣言/观点/疾病传播动力学，群体博弈与合作",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangcy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 329,
+        "fields": {
+            "name": "计控张金",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "nkzhangjin@nankai.edu.cn",
+            "field": "人工智能与自然语言处理,互联网金融;认知科学与脑计算;物联网与云计算;",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjin"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 330,
+        "fields": {
+            "name": "计控张娟娟",
+            "sex": "女",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "022-23503960-805",
+            "email": "juanjuanzhang@nankai.edu.cn",
+            "field": "下肢外骨骼机器人",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 331,
+        "fields": {
+            "name": "计控张雪波",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制理论与工程",
+            "tele": "23505706-809",
+            "email": "zhangxuebo@nankai.edu.cn",
+            "field": "移动机器人学，视觉伺服，运动规划，无人车自主导航，多摄像机网络。",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangxb"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 332,
+        "fields": {
+            "name": "计控张莹",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "yingzhang@nankai.edu.cn",
+            "field": "自然语言处理、人工智能、数据挖掘、机器学习",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangying"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 333,
+        "fields": {
+            "name": "计控张玉",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "信息安全",
+            "tele": "未知",
+            "email": "zhangyu1981@nankai.edu.cn",
+            "field": "计算机网络与信息安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangyu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 334,
+        "fields": {
+            "name": "计控赵宏",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "admin": "基础教学部主任",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "软件",
+            "tele": "022-23502290",
+            "email": "zhaoh@nankai.edu.cn",
+            "field": "智能计算及应用、环境大数据挖掘、环境保护科学技术研发",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaoh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 335,
+        "fields": {
+            "name": "计控周环",
+            "sex": "女",
+            "depart": "学院行政管理",
+            "admin": "办公室主任",
+            "title": "副研究员",
+            "degree": "未知",
+            "major": "国际经贸关系",
+            "tele": "23503438",
+            "email": "zhouhuan@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhouhuan"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 336,
+        "fields": {
+            "name": "计控别东洋",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "未知",
+            "field": "模块化机器人、医疗机器人",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=bdyang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 337,
+        "fields": {
+            "name": "计控蔡庆琼",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "caiqingqiong@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=caiqq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 338,
+        "fields": {
+            "name": "计控高裴裴",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "watersky@nankai.edu.cn",
+            "field": "情感计算，语音合成",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=gaopp"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 339,
+        "fields": {
+            "name": "计控古力",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "光学工程",
+            "tele": "未知",
+            "email": "guli@nankai.edu.cn",
+            "field": "主要从事混沌密码学和混沌Hash函数方面的研究",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=gul"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 340,
+        "fields": {
+            "name": "计控郭宪",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "guoxian@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=guoxian"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 341,
+        "fields": {
+            "name": "计控过辰楷",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "未知",
+            "email": "chenkai.guo@163.com",
+            "field": "软件工程、程序分析、移动应用分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=guock"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 342,
+        "fields": {
+            "name": "计控韩玲",
+            "sex": "女",
+            "depart": "学院行政管理",
+            "admin": "党委副书记、副院长",
+            "title": "讲师",
+            "degree": "本科",
+            "major": "思想政治教育",
+            "tele": "23504951",
+            "email": "hanling@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=hanling"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 343,
+        "fields": {
+            "name": "计控康宏",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "未知",
+            "email": "kanghong@nankai.edu.cn",
+            "field": "数据库技术，中间件技术，J2EE",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=kangh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 344,
+        "fields": {
+            "name": "计控李敏",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "13820318223",
+            "email": "limintj@nankai.edu.cn",
+            "field": "信息安全；密码学应用",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lim"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 345,
+        "fields": {
+            "name": "计控李兴娟",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "硕士",
+            "major": "控制理论与控制工程",
+            "tele": "未知",
+            "email": "lxjuan@nankai.edu.cn",
+            "field": "网络安全, 无线和移动网络，应用系统开发",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lixj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 346,
+        "fields": {
+            "name": "计控梁潇",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "liangx@nankai.edu.cn; liangx@mail.nankai.edu.cn",
+            "field": "旋翼无人飞行器运动控制，飞行吊运系统，飞行机械臂系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liangxiao"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 347,
+        "fields": {
+            "name": "计控蒲凌君",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "未知",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "pulingjun@nankai.edu.cn",
+            "field": "Emerging and Advanced Network Framework for Edge+IoT+AI",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=pulj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 348,
+        "fields": {
+            "name": "计控全雄文",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "控制理论与控制工程",
+            "tele": "23507780",
+            "email": "quanxw@nankai.edu.cn",
+            "field": "优化理论与应用，供应链管理，管理信息系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=quanxw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 349,
+        "fields": {
+            "name": "计控任博",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "85358095",
+            "email": "rb@nankai.edu.cn",
+            "field": "真实感模拟与渲染，三维重建，几何模型处理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=renbo"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 350,
+        "fields": {
+            "name": "计控任明明",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "数学",
+            "tele": "23504780",
+            "email": "rmingming at nankai_edu_cn",
+            "field": "并行计算、复杂系统模拟",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=renmm"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 351,
+        "fields": {
+            "name": "计控沈玮",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "未知",
+            "email": "shenwei@nankai.edu.cn",
+            "field": "数据挖掘，大数据分析，万维网数据管理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=shenwei"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 352,
+        "fields": {
+            "name": "计控宋春瑶",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "Computer Science",
+            "tele": "未知",
+            "email": "chunyao.song@nankai.edu.cn",
+            "field": "数据库系统及管理，不确定数据，数据流，科学数据库，图数据，大数据。",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=songcy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 353,
+        "fields": {
+            "name": "计控孙明竹",
+            "sex": "女",
+            "depart": "机器人与信息自动化研究所",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "23503960-802",
+            "email": "sunmz@nankai.edu.cn",
+            "field": "微操作机器人，显微视觉，生物目标视觉跟踪，生物模式形成建模与仿真",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunmz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 354,
+        "fields": {
+            "name": "计控王刚",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "未知",
+            "email": "ganggang@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wgang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 355,
+        "fields": {
+            "name": "计控王志",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "信息安全",
+            "tele": "未知",
+            "email": "zwang@nankai.edu.cn",
+            "field": "计算机恶意代码分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 356,
+        "fields": {
+            "name": "计控许昱玮",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "xuyw@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xuyuwei"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 357,
+        "fields": {
+            "name": "计控于刚",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "通信与信息系统",
+            "tele": "未知",
+            "email": "yugang@nankai.edu.cn",
+            "field": "计算机网络 P2P系统及应用",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yugang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 358,
+        "fields": {
+            "name": "计控张海威",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "zhhaiwei@nankai.edu.cn",
+            "field": "数据库、数据挖掘、XML数据管理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhhaiwei"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 359,
+        "fields": {
+            "name": "计控张建磊",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "jianleizhang@nankai.edu.cn",
+            "field": "人工智能与群体智能 演化博弈理论与深度学习 网络博弈与神经网络 无人机系统智能控制 多机器人系统的协调与控制 网络化控制系统的分析与综合 集群行为与集群智能 演化博弈与群体决策",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 360,
+        "fields": {
+            "name": "计控张健",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "软件",
+            "tele": "未知",
+            "email": "bfb@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 361,
+        "fields": {
+            "name": "计控包秀娟",
+            "sex": "女",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "研究生",
+            "major": "未知",
+            "tele": "85358661",
+            "email": "baoxiujuan2008@163.com",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=baoxj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 362,
+        "fields": {
+            "name": "计控陈金志",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "实验师",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "未知",
+            "email": "chenjz@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenjz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 363,
+        "fields": {
+            "name": "计控陈景林",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "title": "高级工程师",
+            "degree": "本科",
+            "major": "机械",
+            "tele": "022-23508410",
+            "email": "cjlcjl@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenjl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 364,
+        "fields": {
+            "name": "计控董前琨",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "研究生",
+            "major": "计算机科学与技术",
+            "tele": "未知",
+            "email": "qiankund@nankai.edu.cn",
+            "field": "并行与分布式处理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=dongqk"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 365,
+        "fields": {
+            "name": "计控郭天勇",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "title": "高级实验师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "未知",
+            "email": "guoty@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=guoty"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 366,
+        "fields": {
+            "name": "计控郭蕴",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "助理实验师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "022-23508410",
+            "email": "guoyun@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=guoy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 367,
+        "fields": {
+            "name": "计控黄大刚",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "admin": "实验中心副主任",
+            "title": "高级工程师",
+            "degree": "本科",
+            "major": "光学",
+            "tele": "23505171",
+            "email": "huangdagang@nankai.edu.cn",
+            "field": "控制科学与工程(检测技术与自动化装置),光学工程,仪器科学与技术(测试计量技术及仪器)",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=huangdg"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 368,
+        "fields": {
+            "name": "计控康介恢",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "硕士",
+            "major": "计算机应用",
+            "tele": "未知",
+            "email": "kangjiehui@nankai.edu.cn",
+            "field": "软件理论与测试",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=kangjh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 369,
+        "fields": {
+            "name": "计控李妍",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "实验师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "022-23508410",
+            "email": "liyan081306@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liyan"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 370,
+        "fields": {
+            "name": "计控林浩",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "工程师",
+            "degree": "本科",
+            "major": "应用",
+            "tele": "未知",
+            "email": "karlin@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=linh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 371,
+        "fields": {
+            "name": "计控刘嘉欣",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "admin": "实验中心副主任",
+            "title": "高级实验师",
+            "degree": "本科",
+            "major": "软件",
+            "tele": "未知",
+            "email": "liujx@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liujx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 372,
+        "fields": {
+            "name": "计控刘瑞琴",
+            "sex": "女",
+            "depart": "实验教学中心",
+            "title": "工程师",
+            "degree": "本科",
+            "major": "计应用",
+            "tele": "23500526",
+            "email": "dragon@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liurq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 373,
+        "fields": {
+            "name": "计控刘爽",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "title": "工程师",
+            "degree": "本科",
+            "major": "应用",
+            "tele": "022-23508410",
+            "email": "shuangliu@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lius"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 374,
+        "fields": {
+            "name": "计控卢冶",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "实验师",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "luye@nankai.edu.cn",
+            "field": "边缘计算;物联网; 嵌入式系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=luye"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 375,
+        "fields": {
+            "name": "计控路明晓",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "助理实验师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "022-23508410",
+            "email": "lumx@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=lumx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 376,
+        "fields": {
+            "name": "计控乜鹏",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "研究生",
+            "major": "软件工程",
+            "tele": "13602157486",
+            "email": "niepeng@nankai.edu.cn",
+            "field": "软件工程",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=niep"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 377,
+        "fields": {
+            "name": "计控孙月",
+            "sex": "女",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "未知",
+            "email": "yuesun@nankai.edu.cn",
+            "field": "机器人技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=suny"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 378,
+        "fields": {
+            "name": "计控王冬梅",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "高级实验师",
+            "degree": "本科",
+            "major": "未知",
+            "tele": "022-23508410",
+            "email": "wangdongmei@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangdm"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 379,
+        "fields": {
+            "name": "计控王晓娜",
+            "sex": "女",
+            "depart": "自动化与智能科学系",
+            "title": "工程师",
+            "degree": "大专",
+            "major": "电子与信息",
+            "tele": "23505706-806",
+            "email": "wangxn@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wangxn"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 380,
+        "fields": {
+            "name": "计控温延龙",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "admin": "系主任助理",
+            "title": "高级实验师",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "85358995",
+            "email": "wenyl@nankai.edu.cn",
+            "field": "数据库技术、信息检索",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wenyl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 381,
+        "fields": {
+            "name": "计控徐宁",
+            "sex": "女",
+            "depart": "实验教学中心",
+            "title": "高级工程师",
+            "degree": "本科",
+            "major": "计应用",
+            "tele": "85358936",
+            "email": "xuning@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xun"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 382,
+        "fields": {
+            "name": "计控许丽",
+            "sex": "女",
+            "depart": "实验教学中心",
+            "title": "实验师",
+            "degree": "硕士",
+            "major": "未知",
+            "tele": "23505171",
+            "email": "xuli@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=xuli"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 383,
+        "fields": {
+            "name": "计控闫晓玉",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "助理实验师",
+            "degree": "硕士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "18653725347@139.com",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yanxy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 384,
+        "fields": {
+            "name": "计控张彪",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "研究生",
+            "major": "未知",
+            "tele": "23498953",
+            "email": "zhangbiao@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangbiao"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 385,
+        "fields": {
+            "name": "计控张涛",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "助理实验师",
+            "degree": "研究生",
+            "major": "未知",
+            "tele": "85358936",
+            "email": "zhangt@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangtao"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 386,
+        "fields": {
+            "name": "计控张小林",
+            "sex": "男",
+            "depart": "实验教学中心",
+            "title": "高级实验师",
+            "degree": "未知",
+            "major": "物理系",
+            "tele": "23498953",
+            "email": "zhangxl@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangxl"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 387,
+        "fields": {
+            "name": "计控周璐",
+            "sex": "女",
+            "depart": "自动化与智能科学系",
+            "admin": "系主任助理",
+            "title": "实验师",
+            "degree": "硕士",
+            "major": "未知",
+            "tele": "23505706-806",
+            "email": "zhoulu@nankai.edu.cn",
+            "field": "模式识别与智能系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhoulu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 388,
+        "fields": {
+            "name": "计控朱美玲",
+            "sex": "女",
+            "depart": "公共计算机基础教学部",
+            "title": "工程师",
+            "degree": "大专",
+            "major": "计算机",
+            "tele": "022-23503590",
+            "email": "zhml@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhuml"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 389,
+        "fields": {
+            "name": "计控于宁波",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "机器人",
+            "tele": "+86 (22) 23503960-801",
+            "email": "nyu AT nankai.edu.cn",
+            "field": "机器人与智能系统, 人与机器人的交互、协作与控制, 康复训练、医疗辅助和智能服务机器人",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=nyu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 390,
+        "fields": {
+            "name": "计控方勇纯",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制",
+            "tele": "23505706-802，85358689",
+            "email": "fangyc@nankai.edu.cn",
+            "field": "机器人视觉控制；无人机；欠驱动吊车系统；微纳米操作",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=fangyc"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 391,
+        "fields": {
+            "name": "计控刘杰",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机科学与技术",
+            "tele": "未知",
+            "email": "jliu@nankai.edu.cn",
+            "field": "机器学习；数据挖掘；大数据分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liujie"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 392,
+        "fields": {
+            "name": "计控赵新",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "副院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "23505706-803,85358825",
+            "email": "zhaoxin@nankai.edu.cn",
+            "field": "微操作机器人系统，微纳设计与加工，生物模式形成与组织发育建模",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaox"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 393,
+        "fields": {
+            "name": "计控秦岩丁",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "智能科学与技术",
+            "tele": "022 23503960-803",
+            "email": "qinyd@nankai.edu.cn",
+            "field": "微/纳操作机器人、超精密定位系统、气动人工肌肉、3D生物打印",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=qinyd"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 394,
+        "fields": {
+            "name": "计控赵新",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "副院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "23505706-803,85358825",
+            "email": "zhaoxin@nankai.edu.cn",
+            "field": "微操作机器人系统，微纳设计与加工，生物模式形成与组织发育建模",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaox"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 395,
+        "fields": {
+            "name": "计控王鸿鹏",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "智能科学与技术",
+            "tele": "23505706-815",
+            "email": "hpwang@nankai.edu.cn, hopwang@gmail.com",
+            "field": "机器人与智能系统, 云/网络/遥操作机器人, 野外与空中机器人， 虚拟/增强现实, 人工智能, 自然生态环境智能化监测",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wanghp"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 396,
+        "fields": {
+            "name": "计控刘晓光",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "admin": "副院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机",
+            "tele": "23504780",
+            "email": "liuxg74 [AT] hotmail.com",
+            "field": "云存储 搜索引擎 区块链系统 云计算/大数据平台 计算经济学",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=liuxg"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 397,
+        "fields": {
+            "name": "计控孙宁",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "title": "副教授",
+            "degree": "未知",
+            "major": "控制理论与控制工程",
+            "tele": "23503960-804",
+            "email": "sunn@nankai.edu.cn",
+            "field": "陆地/船用吊车(起重机)自动控制，欠驱动机器人，机电系统控制",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunning"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 398,
+        "fields": {
+            "name": "计控袁晓洁",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机软件",
+            "tele": "23509175",
+            "email": "yuanxj[at]nankai.edu.cn",
+            "field": "数据库、知识工程、大数据技术、机器学习、Web检索与挖掘",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yuanxj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 399,
+        "fields": {
+            "name": "计控方勇纯",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制",
+            "tele": "23505706-802，85358689",
+            "email": "fangyc@nankai.edu.cn",
+            "field": "机器人视觉控制；无人机；欠驱动吊车系统；微纳米操作",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=fangyc"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 400,
+        "fields": {
+            "name": "计控张建勋",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制理论与应用",
+            "tele": "23505706-805",
+            "email": "zhangjx@nankai.edu.cn",
+            "field": "智能机器人控制、计算机网络与信息系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 401,
+        "fields": {
+            "name": "计控王刚",
+            "sex": "男",
+            "depart": "公共计算机基础教学部",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "未知",
+            "email": "ganggang@nankai.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=wgang"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 402,
+        "fields": {
+            "name": "计控张玉",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "信息安全",
+            "tele": "未知",
+            "email": "zhangyu1981@nankai.edu.cn",
+            "field": "计算机网络与信息安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangyu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 403,
+        "fields": {
+            "name": "计控张建忠",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机应用",
+            "tele": "未知",
+            "email": "zhangjz@nankai.edu.cn",
+            "field": "网络大数据分析，网络安全，移动计算，软件定义网络（SDN）",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 404,
+        "fields": {
+            "name": "计控代煜",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "控制科学与工程",
+            "tele": "23505706-811",
+            "email": "daiyu@nankai.edu.cn",
+            "field": "面向手术机器人的智能感知技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=daiyu"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 405,
+        "fields": {
+            "name": "计控张建勋",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自动控制理论与应用",
+            "tele": "23505706-805",
+            "email": "zhangjx@nankai.edu.cn",
+            "field": "智能机器人控制、计算机网络与信息系统",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjx"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 406,
+        "fields": {
+            "name": "计控张金",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "副教授",
+            "degree": "博士",
+            "major": "计算机应用技术",
+            "tele": "未知",
+            "email": "nkzhangjin@nankai.edu.cn",
+            "field": "人工智能与自然语言处理,互联网金融;认知科学与脑计算;物联网与云计算;",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangjin"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 407,
+        "fields": {
+            "name": "计控浅间一",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "讲座教授",
+            "degree": "博士",
+            "major": "机器人",
+            "tele": "022-23508547",
+            "email": "190859741@qq.com",
+            "field": "核电站安全检测与救灾机器人，脑机接口技术，服务机器人，人工智能，机器人技术",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=qjy"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 408,
+        "fields": {
+            "name": "计控张海威",
+            "sex": "男",
+            "depart": "计算机科学与信息安全系",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "未知",
+            "email": "zhhaiwei@nankai.edu.cn",
+            "field": "数据库、数据挖掘、XML数据管理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhhaiwei"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 409,
+        "fields": {
+            "name": "计控赵新",
+            "sex": "男",
+            "depart": "机器人与信息自动化研究所",
+            "admin": "副院长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "自控",
+            "tele": "23505706-803,85358825",
+            "email": "zhaoxin@nankai.edu.cn",
+            "field": "微操作机器人系统，微纳设计与加工，生物模式形成与组织发育建模",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhaox"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 410,
+        "fields": {
+            "name": "计控孙明竹",
+            "sex": "女",
+            "depart": "机器人与信息自动化研究所",
+            "title": "讲师",
+            "degree": "博士",
+            "major": "未知",
+            "tele": "23503960-802",
+            "email": "sunmz@nankai.edu.cn",
+            "field": "微操作机器人，显微视觉，生物目标视觉跟踪，生物模式形成建模与仿真",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=sunmz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 411,
+        "fields": {
+            "name": "计控袁晓洁",
+            "sex": "女",
+            "depart": "计算机科学与信息安全系",
+            "title": "教授",
+            "degree": "博士",
+            "major": "计算机软件",
+            "tele": "23509175",
+            "email": "yuanxj[at]nankai.edu.cn",
+            "field": "数据库、知识工程、大数据技术、机器学习、Web检索与挖掘",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=yuanxj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 412,
+        "fields": {
+            "name": "计控陈增强",
+            "sex": "男",
+            "depart": "自动化与智能科学系",
+            "admin": "副所长",
+            "title": "教授",
+            "degree": "博士",
+            "major": "控制",
+            "tele": "23508547",
+            "email": "chenzq@nankai.edu.cn",
+            "field": "智能预测控制与智能优化计算、复杂系统建模优化与控制、多智能体系统与复杂网络、离散事件逻辑动态系统建模与分析",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenzq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 413,
+        "fields": {
+            "name": "计控谭永红",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "兼职教授",
+            "degree": "博士",
+            "major": "自动化与控制工程系电机工程",
+            "tele": "021-57122955",
+            "email": "tany@shnu.edu.cn",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=tanyh"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 414,
+        "fields": {
+            "name": "计控张玉军",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "兼职教授",
+            "degree": "未知",
+            "major": "计算机系统结构",
+            "tele": "未知",
+            "email": "zhangyj@nankai.edu.cn",
+            "field": "计算机网络，未来网络，网络安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangyj"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 415,
+        "fields": {
+            "name": "计控周明",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "兼职教授",
+            "degree": "博士",
+            "major": "计算机科学与技术",
+            "tele": "未知",
+            "email": "未知",
+            "field": "机器翻译、自然语言处理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhouming"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 416,
+        "fields": {
+            "name": "计控张永铮",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "兼职教授",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "未知",
+            "email": "zhangyu1981@nankai.edu.cn",
+            "field": "网络安全",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangyz"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 417,
+        "fields": {
+            "name": "计控高雨青",
+            "sex": "女",
+            "depart": "兼职博士生导师",
+            "title": "客座教授",
+            "degree": "未知",
+            "major": "计算机，认知计算",
+            "tele": "未知",
+            "email": "未知",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=Gaoyq"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 418,
+        "fields": {
+            "name": "计控沈晓卫",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "客座教授",
+            "degree": "未知",
+            "major": "计算机，物联网",
+            "tele": "未知",
+            "email": "未知",
+            "field": "",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=Shenxw"
+        }
+    },
+    {
+        "model": "TeacherMsg.Teacher",
+        "pk": 419,
+        "fields": {
+            "name": "计控陈云霁",
+            "sex": "男",
+            "depart": "兼职博士生导师",
+            "title": "未知",
+            "degree": "未知",
+            "major": "未知",
+            "tele": "未知",
+            "email": "未知",
+            "field": "微体系结构 机器学习 并行计算 视频处理",
+            "URL": "https://cc.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=chenyunji"
+        }
+    }
+]

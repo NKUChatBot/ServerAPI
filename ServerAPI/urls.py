@@ -18,5 +18,6 @@ from django.urls import path, include
 
 urlpatterns = [
     path('w2v/', include("API_w2v.urls")),
+    path('teacher_msg/', include("TeacherMsg.urls")),
     path('admin/', admin.site.urls),
 ]

@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'TeacherMsg.apps.TeachermsgConfig'
 ]
 
 MIDDLEWARE = [
@@ -107,6 +108,8 @@ LANGUAGE_CODE = 'en-us'
 
 TIME_ZONE = 'UTC'
 
+LANGUAGE_CODE = 'zh-hans'
+
 USE_I18N = True
 
 USE_L10N = True
@@ -118,3 +121,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+FIXTURE_DIRS = ['FixtureData/']
