@@ -56,7 +56,7 @@ class Teacher(models.Model):
         help_text=u"老师的职称，最多 64 个字符"
     )
     depart = models.CharField(
-        verbose_name=u"院系",
+        verbose_name=u"研究系属",
         max_length=64,
         null=True, blank=True,
         help_text=u"老师的所属院系，最多 64 个字符",
@@ -66,6 +66,12 @@ class Teacher(models.Model):
         max_length=128,
         null=True, blank=True,
         help_text=u"介绍老师的网页链接，最多 128 个字符",
+    )
+    college = models.CharField(
+            verbose_name=u"学院",
+            max_length=128,
+            null=True,blank=True,
+            help_text=u""
     )
 
     def __str__(self):
