@@ -4,21 +4,6 @@ from .models import Teacher
 from find_keyword.keyword import keywords
 from find_college.findKey import find_college
 
-def res(question):
-    Qname=keywords(question)# find teacher_name
-    Qcollege=find_college(question) ## find college_name
-    if not name and len(college)==0:
-        ans=similar_ans(question)
-        if ans:
-            return ans
-    else :
-        str=""
-        if not name :
-            #teacher 找老师
-            
-        
-
-
 def response(question):
     ## 从问题中提取关键字
     Qname=keywords(question)# find teacher_name
