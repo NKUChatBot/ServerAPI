@@ -1,0 +1,20 @@
+[
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$120000$d4n5n80UBDjn$+em593jUY/YdJLpRcTfNx7adJiz9yUkXgllnP3Zh2AM=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "chatbot",
+        "first_name": "",
+        "last_name": "",
+        "email": "shesl-meow@qq.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2019-04-02T05:33:44.700Z",
+        "groups": [],
+        "user_permissions": []
+    }
+}
+]

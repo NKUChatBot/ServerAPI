@@ -7,7 +7,7 @@ SELF_PATH=`cd $(dirname $0); pwd -P;`
 read -e -p "Enter IP address of your config server？/ 请输入您服务器的 IP 地址:" \
     -i "39.105.214.245" SERVER_IP
 read -e -p "Enter the deploy port of your config? / 请输出您需要部署的服务器 IP 地址："\
-    -i "9000" SERVER_PORT
+    -i "8083" SERVER_PORT
 read -e -p "Enter domain name of your config server / 请输入指向您服务器的域名:" \
     -i "www.nkchatbot.com" DOMAIN_NAME
 read -e -p "What is the name of your project / 您希望您项目的名称叫什么(please do not leave blank):" \
@@ -81,7 +81,7 @@ esac
 
 case ${DJANGO_SETTING_CHOICE} in
     y|Y)
-    sed "s@ALLOWED_HOSTS = .*@ALLOWED_HOSTS = ['${DOMAIN_NAME}', '${SERVER_IP}']@g"
+    sed "s@ALLOWED_HOSTS = .*@ALLOWED_HOSTS = ['${DOMAIN_NAME}', '${SERVER_IP}']@g" \
         ./${DJANGO_PROJECT_NAME}/settings.py > tmp
     mv tmp ./${DJANGO_PROJECT_NAME}/settings.py
         ;;

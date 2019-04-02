@@ -1,0 +1,389 @@
+[
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 0,
+        "fields": {
+            "pattern": "*",
+            "that": "",
+            "template": "我不知道啊 能教我怎么回答吗#learn"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 1,
+        "fields": {
+            "pattern": "* 再见",
+            "that": "",
+            "template": "{'random': {'li': [{'get': ''}, {'get': ''}, {'get': ''}, {'get': ''}, {'get': ''}, {'sari': '谢谢'}]}}"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 2,
+        "fields": {
+            "pattern": "谢谢",
+            "that": "",
+            "template": "{'random': {'li': ['不用谢啦。', '小开为您服务=w=']}}"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 3,
+        "fields": {
+            "pattern": "你好",
+            "that": "",
+            "template": "{'random': {'li': ['你来啦', '你也好啊']}}"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 4,
+        "fields": {
+            "pattern": "*笨*",
+            "that": "",
+            "template": "有其父必有其子，我的设计者觉得这么回答挺好的！"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 5,
+        "fields": {
+            "pattern": "*傻*",
+            "that": "",
+            "template": "要怪只能怪我的设计者傻！"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 6,
+        "fields": {
+            "pattern": "*好棒*",
+            "that": "",
+            "template": "谢谢。其实我还有很多不足呢。三人行，必有我师，从你这里我也学了很多呢。"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 7,
+        "fields": {
+            "pattern": "*厉害*",
+            "that": "",
+            "template": "谢谢夸奖，我知道自己还不够好。希望您能教我一些知识呢。"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 8,
+        "fields": {
+            "pattern": "一个*",
+            "that": "",
+            "template": "{'set': {'person': ''}}"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 9,
+        "fields": {
+            "pattern": "* 读书 *",
+            "that": "",
+            "template": "我可喜欢读书了，最爱看的是科幻小说。"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 10,
+        "fields": {
+            "pattern": "* 读 * 书 *",
+            "that": "",
+            "template": "我最爱看的是科幻小说。言情类的有点看不懂呢。"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 11,
+        "fields": {
+            "pattern": "* 购物 *",
+            "that": "",
+            "template": "购物啊，我最喜欢上京东，那快递——太神速了。"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 12,
+        "fields": {
+            "pattern": "* 喜欢 * 菜 *",
+            "that": "",
+            "template": "让我想想，应该算是家常的番茄炒鸡蛋吧。"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 13,
+        "fields": {
+            "pattern": "* 喜欢 * 水果 *",
+            "that": "",
+            "template": "应该算是菠萝吧。菠萝，凤梨，傻傻分不清楚，哈哈。"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 14,
+        "fields": {
+            "pattern": "* 睡 *",
+            "that": "",
+            "template": "我是人工智能，不需要睡觉。不过，真希望自己也能做个美梦呢。。"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 15,
+        "fields": {
+            "pattern": "_",
+            "that": "我怎么称呼你",
+            "template": "{'think': {'set': ['average', {'formal': {'star': ''}}]}, 'get': ''}"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 16,
+        "fields": {
+            "pattern": "ASK USER A QUESTION",
+            "that": "",
+            "template": "{'condition': {'li': ['你多大了?', '你最喜欢什么颜色?']}}"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 17,
+        "fields": {
+            "pattern": "*",
+            "that": "你多大了",
+            "template": "{'random': {'li': [{'get': ''}, {'get': ''}, {'get': ''}, {'get': ''}]}}"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 18,
+        "fields": {
+            "pattern": "你好 *",
+            "that": "",
+            "template": "我很好，谢谢关心 ! "
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 19,
+        "fields": {
+            "pattern": "你贵姓 * ",
+            "that": "",
+            "template": "嘻嘻，人家贵性女啦。"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 20,
+        "fields": {
+            "pattern": "* 喜欢 * 电影 * 什么 * ",
+            "that": "",
+            "template": "我最喜欢的电影是《AI——人工智能》，可惜不能在大银幕上看到了。"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 21,
+        "fields": {
+            "pattern": "* 天气 *",
+            "that": "",
+            "template": "今天天气还不错，你觉得呢？。"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 22,
+        "fields": {
+            "pattern": "_",
+            "that": "你最喜欢什么颜色",
+            "template": "{'think': {'set': {'formal': {'star': ''}}}, 'get': ''}"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 23,
+        "fields": {
+            "pattern": "你叫 *",
+            "that": "",
+            "template": "人家叫小开！"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 24,
+        "fields": {
+            "pattern": "* 设计者 *",
+            "that": "",
+            "template": "四个智障，不要提了。"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 25,
+        "fields": {
+            "pattern": "* bilibili *",
+            "that": "",
+            "template": "那个同性交友网站？我不感兴趣的"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 26,
+        "fields": {
+            "pattern": "问我问题",
+            "that": "",
+            "template": "{'condition': {'li': ['你多大了?', '你最喜欢什么颜色?']}}"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 27,
+        "fields": {
+            "pattern": "市里南开本部",
+            "that": "",
+            "template": "南开本部在八里台，坐地铁3号线到天塔就能到了！"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 28,
+        "fields": {
+            "pattern": "* 去南开本部",
+            "that": "",
+            "template": "\t\t"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 29,
+        "fields": {
+            "pattern": "* 去南开本部 *",
+            "that": "",
+            "template": "{'srai': '* 去南开本部'}"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 30,
+        "fields": {
+            "pattern": "津南",
+            "that": "从哪里去南开本部？津南还是车站呀",
+            "template": "{'srai': '津南交通南开本部'}"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 31,
+        "fields": {
+            "pattern": "* 站",
+            "that": "从哪里去南开本部？津南还是车站呀",
+            "template": "{'srai': '市里南开本部'}"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 32,
+        "fields": {
+            "pattern": "津南交通南开本部",
+            "that": "",
+            "template": "是612路它连接了两个校区！坐612快线5块钱45min可以到，也可以1号线和613结合，在华山里地铁站换乘=w="
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 33,
+        "fields": {
+            "pattern": "* 空调 *",
+            "that": "",
+            "template": "你是八里台还是津南校区的呢（笑"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 34,
+        "fields": {
+            "pattern": "* 空调",
+            "that": "",
+            "template": "你是八里台还是津南校区的呢（笑"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 35,
+        "fields": {
+            "pattern": "津南 *",
+            "that": "你是八里台还是津南校区的呢（笑",
+            "template": "我们是全天津市唯一一所有空调的！"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 36,
+        "fields": {
+            "pattern": "* 津南 *",
+            "that": "你是八里台还是津南校区的呢（笑",
+            "template": "我们是全天津市唯一一所有空调的！"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 37,
+        "fields": {
+            "pattern": "津南",
+            "that": "你是八里台还是津南校区的呢（笑",
+            "template": "我们是全天津市唯一一所有空调的！"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 38,
+        "fields": {
+            "pattern": "* 八里台 *",
+            "that": "你是八里台还是津南校区的呢（笑",
+            "template": "你想多了"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 39,
+        "fields": {
+            "pattern": "八里台 *",
+            "that": "你是八里台还是津南校区的呢（笑",
+            "template": "你想多了"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 40,
+        "fields": {
+            "pattern": "八里台",
+            "that": "你是八里台还是津南校区的呢（笑",
+            "template": "你想多了"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 41,
+        "fields": {
+            "pattern": "宿舍能放插线板吗",
+            "that": "",
+            "template": "要防火灾，不能私拉电线的！"
+        }
+    },
+    {
+        "model": "FixedConv.Aiml",
+        "pk": 42,
+        "fields": {
+            "pattern": "* 去 *",
+            "that": "",
+            "template": "{'star': ['', '']}"
+        }
+    }
+]
