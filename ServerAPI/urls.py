@@ -13,12 +13,20 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
+from django.conf.urls.static import static
 from django.contrib import admin
 from django.urls import path, include
+from django.views.generic.base import RedirectView, TemplateView
 
-urlpatterns = [
-    path('w2v/', include("API_w2v.urls")),
-    path('teacher_msg/', include("TeacherMsg.urls")),
-    path('fixed_conv/', include("FixedConv.urls")),
-    path('admin/', admin.site.urls),
-]
+from . import settings
+
+favicon_view = RedirectView.as_view(url='/media/favicon.ico', permanent=True)
+
+urlpatterns = \
+    [
+        path('favicon.ico', favicon_view),
+        path('w2v/', include("API_w2v.urls")),
+        path('teacher_msg/', include("TeacherMsg.urls")),
+        path('fixed_conv/', include("FixedConv.urls")),
+        path('admin/', admin.site.urls),
+    ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

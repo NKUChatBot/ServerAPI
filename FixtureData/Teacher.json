@@ -1,7 +1,7 @@
 [
     {
         "model": "TeacherMsg.Teacher",
-        "pk": 0,
+        "pk": 420,
         "fields": {
             "name": "白芳",
             "sex": "女",
@@ -1409,7 +1409,7 @@
             "depart": "遗传学和细胞生物学系",
             "major": "细胞生物学",
             "field": "细胞自噬与细胞凋亡调控",
-            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhuys"
+            "URL": "http://sky.nankai.edu.cn/teacher.asp?id=zhuys",
 	    "college" : "生科"
         }
     },

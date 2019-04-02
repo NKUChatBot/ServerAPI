@@ -170,3 +170,16 @@ venv.bak/
 WV.pkl
 
 migrations/
+static/
+media/
+!media/favicon.ico
+vocab/
+Tencent_AILab_ChineseEmbedding.txt
+
+
+# uwsgi 启动文件、启动脚本、停止脚本整合到了 ConfigServer.sh 文件中
+*.ini
+run_uwsgi_*
+stop_uwsgi_*
+
+secret.py

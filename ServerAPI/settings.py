@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/2.1/ref/settings/
 """
 
 import os
+from . import secret
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -39,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'TeacherMsg.apps.TeachermsgConfig',
     'FixedConv.apps.FixedconvConfig',
+    'NlpComponent.apps.NlpcomponentConfig',
 ]
 
 MIDDLEWARE = [
@@ -75,10 +77,23 @@ WSGI_APPLICATION = 'ServerAPI.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#     }
+# }
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': secret.mysql_database,
+        "USER": secret.mysql_username,
+        "PASSWORD": secret.mysql_password,
+        "HOST": "localhost",
+        "OPTIONS": {
+            "init_command": "SET sql_mode = 'STRICT_TRANS_TABLES'",
+            "charset": "utf8",
+        }
     }
 }
 
@@ -122,5 +137,11 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATIC_ROOT = 'static/'
+
+MEDIA_URL = '/media/'
+
+MEDIA_ROOT = 'media/'
 
 FIXTURE_DIRS = ['FixtureData/']

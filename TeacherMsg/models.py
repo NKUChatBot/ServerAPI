@@ -39,9 +39,9 @@ class Teacher(models.Model):
     )
     field =models.CharField(
         verbose_name=u"研究领域",
-        max_length=64,
+        max_length=128,
         null=True, blank=True,
-        help_text=u"老师的研究方向，最多 64 个字符"
+        help_text=u"老师的研究方向，最多 128 个字符"
     )
     degree = models.CharField(
         verbose_name=u"学位",
