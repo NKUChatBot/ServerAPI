@@ -1,8 +1,8 @@
 import jieba
 
 from .models import Teacher
-from find_keyword.keyword import keywords
-from find_college.findKey import find_college
+from .find_keyword.keyword import keywords
+from .find_college.findKey import find_college
 
 def response(question):
     ## 从问题中提取关键字
