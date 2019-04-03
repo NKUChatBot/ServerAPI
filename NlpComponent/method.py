@@ -1,2 +1,4 @@
+﻿import knowledge_graph as kg
+
 def repsonse(question, request=None):
-    return "一个回答"
+    return kg.respond(question)
