@@ -1,5 +1,6 @@
 import json
 from django.core.management.base import BaseCommand
+from django.db import IntegrityError
 
 from NlpComponent.models import WordVector
 
@@ -20,8 +21,10 @@ class Command(BaseCommand):
 
         for line in f:
             l = line.split(' ')
-            if WordVector.objects.filter(word=l[0]).exists(): continue
-            WordVector.objects.create(word=l[0], vector=json.dumps(l[1:]).replace(' ', ''))
+            try:
+                WordVector.objects.create(word=l[0], vector=json.dumps(l[1:]).replace(' ', ''))
+            except IntegrityError:
+                continue
 
             with open("load_pos.log", "w") as ff:
                 ff.write(str(line_num))
