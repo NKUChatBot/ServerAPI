@@ -3,6 +3,7 @@ from django.views.decorators.http import require_GET
 
 from ServerAPI.method import get_json_ret, json_response_zh
 
+from .method import response
 from .models import WordVectorCache, WordVector
 
 
@@ -28,3 +29,12 @@ def get_vector(request):
     except Exception as e:
         pass
     return json_response_zh(get_json_ret(44))
+
+
+@require_GET
+def ask(request):
+    question = request.get("question")
+    if question is None:
+        return json_response_zh(get_json_ret(42))
+    answer = response(question, request=request)
+    return json_response_zh(get_json_ret(0, data={"answer": answer}))

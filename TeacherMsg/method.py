@@ -33,5 +33,6 @@ def response(question, request=None):
         for pk, name in names.items():
             if word in name:
                 teacher = Teacher.objects.filter(pk=pk).values().first()
-                return ';'.join([f'{k}是{v}' for k, v in teacher.items()])
+                return '，'.join([str(v) for k,v in teacher.items()
+                                 if (v is not None) and (v != "未知") and (k != "id")])
     return None

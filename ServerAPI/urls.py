@@ -18,7 +18,7 @@ from django.contrib import admin
 from django.urls import path, include
 from django.views.generic.base import RedirectView, TemplateView
 
-from .views import ask
+from .views import ask, greet
 from . import settings
 
 favicon_view = RedirectView.as_view(url='/media/favicon.ico', permanent=True)
@@ -27,6 +27,8 @@ urlpatterns = \
     [
         path('favicon.ico', favicon_view),
         path('ask/', ask),
+        path('greet/', greet),
+
         path('teacher_msg/', include("TeacherMsg.urls")),
         path('fixed_conv/', include("FixedConv.urls")),
         path('nlp_component/', include("NlpComponent.urls")),
