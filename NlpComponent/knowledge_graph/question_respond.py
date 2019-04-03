@@ -20,10 +20,25 @@ def randEnd():
     return random.choice(endSentence)
 
 
+def comb(a, b, c):
+    return a + b + '是' + c + randEnd()
+
+
+def findRelation(start, sentence):
+    query = "match (u)-[r:%s]->(v) where u.name='%s' return v"
+    for word in sentence:
+        res = graph.run(query % (word, start)).data()
+        # print(query % (word, start), res)
+        if res:
+            return comb(start, word, res[0]['v'].get('name'))
+    return None
+
+
 def findAttribute(node, sentence):
     for word in sentence:
+        # print(word, node)
         if node.get(word):
-            return node.get('name') + word + '是' + node.get(word) + randEnd()
+            return comb(node.get('name'), word, node.get(word))
 
 
 def respond(question):
@@ -34,9 +49,12 @@ def respond(question):
     for word in sentence:
         try:
             res = graph.run(query % word).data()
-            ans = findAttribute(res[0]['e'], sentence)
-            if ans:
-                return ans
+            if res:
+                ans = findAttribute(res[0]['e'], sentence)
+                if not ans:
+                    ans = findRelation(word, sentence)
+                if ans:
+                    return ans
         except Exception as e:
             # print(e)
             pass
@@ -44,5 +62,5 @@ def respond(question):
 
 
 if __name__ == '__main__':
-    question = "南开校歌？"
+    question = "南开校训？"
     print(respond(question))
