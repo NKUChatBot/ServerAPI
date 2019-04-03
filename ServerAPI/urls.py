@@ -28,5 +28,6 @@ urlpatterns = \
         path('w2v/', include("API_w2v.urls")),
         path('teacher_msg/', include("TeacherMsg.urls")),
         path('fixed_conv/', include("FixedConv.urls")),
+        path('nlp_component/', include("NlpComponent.urls")),
         path('admin/', admin.site.urls),
     ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

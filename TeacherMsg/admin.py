@@ -4,6 +4,7 @@ from .models import Teacher
 
 
 class TeacherModelAdmin(admin.ModelAdmin):
+    search_fields = ("name",)
     list_display = ("name", "sex", "admin", "major", "field", "degree", "title", "depart")
 
 
