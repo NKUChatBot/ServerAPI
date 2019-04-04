@@ -1,12 +1,10 @@
-import json
-import requests
+import logging
 from django.views.decorators.http import require_GET
-
-from .secret import tuning_key
 
 from ServerAPI.method import get_json_ret, json_response_zh
 from TeacherMsg.method import response as teacher_response
 from FixedConv.method import response as fixed_response
+from ThridParty.method import ask_tuling123
 
 
 @require_GET
@@ -19,22 +17,30 @@ def ask(request):
     question = request.GET.get("question")
     if question is None:
         return json_response_zh(get_json_ret(40))
-    answer = teacher_response(question, request=request)
-    if answer is not None:
-        return json_response_zh(get_json_ret(0, data={"answer": answer}))
-    answer = fixed_response(question, request=request)
-    if answer is not None:
-        return json_response_zh(get_json_ret(0, data={"answer": answer}))
-    response = requests.post("http://openapi.tuling123.com/openapi/api/v2", data={
-        "reqType": 0,
-        "perception": {
-            "inputText": {"text": question},
-            "selfInfo": {"location": {"city": "天津", }},
-            "userInfo": {"apiKey": tuning_key, "userId": request.session.session_key,}
-        }
-    })
-    response = json.loads(response.text)
-    return json_response_zh(get_json_ret(0, data={"answer": response["results"]}))
+
+    logger = logging.getLogger("chatbot")
+    try:
+        answer = teacher_response(question, request=request)
+        if answer is not None:
+            return json_response_zh(get_json_ret(0, data={"answer": answer}))
+    except Exception as e:
+        logger.error(f"[TeacherMsg] raise '{str(e)}' when asking '{question}'")
+
+    try:
+        answer = fixed_response(question, request=request)
+        if answer is not None:
+            return json_response_zh(get_json_ret(0, data={"answer": answer}))
+    except Exception as e:
+        logger.error(f"[FixedConv] raise '{str(e)}' when asking '{question}'")
+
+    try:
+        answer = ask_tuling123(question, request=request)
+        if answer is not None:
+            return json_response_zh(get_json_ret(0, data={"answer": answer}))
+    except Exception as e:
+        logger.error(f"[ThirdParty] raise '{str(e)}' when asking '{question}'")
+
+    return json_response_zh(get_json_ret(0, data={"answer": u"不好意思我还不能回答你的问题"}))
 
 
 @require_GET

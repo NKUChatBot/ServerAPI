@@ -175,6 +175,8 @@ media/
 !media/favicon.ico
 vocab/
 Tencent_AILab_ChineseEmbedding.txt
+*log
+log/
 
 
 # uwsgi 启动文件、启动脚本、停止脚本整合到了 ConfigServer.sh 文件中

@@ -32,5 +32,7 @@ urlpatterns = \
         path('teacher_msg/', include("TeacherMsg.urls")),
         path('fixed_conv/', include("FixedConv.urls")),
         path('nlp_component/', include("NlpComponent.urls")),
+        path('third_party/', include('ThridParty.urls')),
+
         path('admin/', admin.site.urls),
     ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
