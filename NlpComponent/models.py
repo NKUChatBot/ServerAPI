@@ -41,7 +41,7 @@ class WordVectorCache(models.Model):
     这是一个冗余项，需要注意 WordVector 项目改变时，容易导致不一致
     """
     word = models.CharField(
-        max_length=32,
+        max_length=64,
         primary_key=True,
     )
     vector = models.CharField(

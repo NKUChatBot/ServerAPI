@@ -169,7 +169,6 @@ venv.bak/
 # 大文件
 WV.pkl
 
-migrations/
 static/
 media/
 !media/favicon.ico
