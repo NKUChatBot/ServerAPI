@@ -90,7 +90,8 @@ DATABASES = {
         'NAME': secret.mysql_database,
         "USER": secret.mysql_username,
         "PASSWORD": secret.mysql_password,
-        "HOST": "localhost",
+        "HOST": "cdb-oakdkex4.bj.tencentcdb.com",
+        "PORT": "10103",
         "OPTIONS": {
             "init_command": "SET sql_mode = 'STRICT_TRANS_TABLES'",
             "charset": "utf8",
